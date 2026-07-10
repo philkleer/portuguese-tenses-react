@@ -16,12 +16,6 @@ export default function App() {
 
   return (
     <div className="app-shell">
-      <header className="app-topbar">
-        <button type="button" className="brand-button" onClick={() => setScreen('home')}>
-          Tempos do Português
-        </button>
-        {/* <IconLinks compact /> */}
-      </header>
       {screen === 'home' && (
         <HomePage
           onStart={() => setScreen('learn')}

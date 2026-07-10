@@ -5,7 +5,8 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
-    "sentence": "Eu ________ perto do metrô.",
+    "hint": "estado atual",
+    "sentence": "Atualmente, eu ________ perto do metrô.",
     "blanks": [
       {
         "hint": "morar",
@@ -19,6 +20,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "Eu ________ de casa às segundas-feiras.",
     "blanks": [
       {
@@ -33,6 +35,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "Eu ________ bem quando ela fala devagar.",
     "blanks": [
       {
@@ -47,6 +50,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "Eu sempre ________ a janela de manhã.",
     "blanks": [
       {
@@ -61,6 +65,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "Eu ________ café todos os dias.",
     "blanks": [
       {
@@ -75,6 +80,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "Eu ________ ao mercado aos sábados.",
     "blanks": [
       {
@@ -89,6 +95,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "futuro próximo",
     "sentence": "Eu ________ duas reuniões hoje.",
     "blanks": [
       {
@@ -103,6 +110,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "Eu ________ brasileiro.",
     "blanks": [
       {
@@ -117,6 +125,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "Eu ________ cansado hoje.",
     "blanks": [
       {
@@ -131,6 +140,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "Eu ________ estudar à noite.",
     "blanks": [
       {
@@ -145,6 +155,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "Eu ________ falar português em situações simples.",
     "blanks": [
       {
@@ -159,6 +170,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "Eu sempre ________ ajuda quando preciso.",
     "blanks": [
       {
@@ -173,6 +185,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "Você ________ perto do centro?",
     "blanks": [
       {
@@ -187,6 +200,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "Você ________ em que área?",
     "blanks": [
       {
@@ -201,6 +215,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "ação em andamento",
     "sentence": "Você ________ a explicação?",
     "blanks": [
       {
@@ -215,6 +230,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "Você ________ o aplicativo todos os dias?",
     "blanks": [
       {
@@ -229,6 +245,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "Você ________ exercícios em casa?",
     "blanks": [
       {
@@ -243,6 +260,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "Você ________ de ônibus para o trabalho?",
     "blanks": [
       {
@@ -257,6 +275,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "ação em andamento",
     "sentence": "Você ________ tempo agora?",
     "blanks": [
       {
@@ -271,6 +290,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "Você ________ de São Paulo?",
     "blanks": [
       {
@@ -285,6 +305,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "Você ________ disponível hoje?",
     "blanks": [
       {
@@ -299,6 +320,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "Você ________ chá ou café?",
     "blanks": [
       {
@@ -313,6 +335,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "futuro próximo",
     "sentence": "Você ________ terminar isso hoje?",
     "blanks": [
       {
@@ -327,6 +350,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "Você ________ desconto quando compra on-line?",
     "blanks": [
       {
@@ -341,6 +365,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "Ela ________ em Belo Horizonte.",
     "blanks": [
       {
@@ -355,7 +380,8 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
-    "sentence": "Ela ________ numa escola pública.",
+    "hint": "estado atual",
+    "sentence": "Atualmente, ela ________ numa escola pública.",
     "blanks": [
       {
         "hint": "trabalhar",
@@ -369,6 +395,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "Ela ________ espanhol, mas prefere português.",
     "blanks": [
       {
@@ -383,7 +410,8 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
-    "sentence": "Ela ________ a loja às nove.",
+    "hint": "costume",
+    "sentence": "Ela ________ a loja às nove todos os dias.",
     "blanks": [
       {
         "hint": "abrir",
@@ -397,7 +425,8 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
-    "sentence": "Ela ________ pão em casa.",
+    "hint": "costume",
+    "sentence": "Ela ________ pão em casa às vezes.",
     "blanks": [
       {
         "hint": "fazer",
@@ -411,7 +440,8 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
-    "sentence": "Ela ________ à academia depois do trabalho.",
+    "hint": "costume",
+    "sentence": "Geralmente, ela ________ à academia depois do trabalho.",
     "blanks": [
       {
         "hint": "ir",
@@ -425,6 +455,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "Ela ________ muitos amigos no bairro.",
     "blanks": [
       {
@@ -439,6 +470,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "Ela ________ médica.",
     "blanks": [
       {
@@ -453,7 +485,8 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
-    "sentence": "Ela ________ feliz com o resultado.",
+    "hint": "ação em andamento",
+    "sentence": "Neste momento, ela ________ feliz com o resultado.",
     "blanks": [
       {
         "hint": "estar",
@@ -467,7 +500,8 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
-    "sentence": "Ela ________ viajar de manhã.",
+    "hint": "costume",
+    "sentence": "Normalmente, ela ________ viajar de manhã.",
     "blanks": [
       {
         "hint": "preferir",
@@ -481,7 +515,8 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
-    "sentence": "Ela ________ resolver problemas difíceis.",
+    "hint": "costume",
+    "sentence": "Nunca, ele ________ resolver problemas difíceis.",
     "blanks": [
       {
         "hint": "conseguir",
@@ -495,6 +530,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "Ela sempre ________ informações antes de decidir.",
     "blanks": [
       {
@@ -509,6 +545,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "Nós ________ no mesmo prédio.",
     "blanks": [
       {
@@ -523,6 +560,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "Nós ________ juntos no laboratório.",
     "blanks": [
       {
@@ -537,6 +575,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "Nós ________ melhor depois da revisão.",
     "blanks": [
       {
@@ -551,7 +590,8 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
-    "sentence": "Nós ________ a sala às oito.",
+    "hint": "costume",
+    "sentence": "Nós ________ a sala às oito todos os dias.",
     "blanks": [
       {
         "hint": "abrir",
@@ -565,6 +605,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "Nós ________ almoço em casa.",
     "blanks": [
       {
@@ -579,6 +620,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "Nós ________ ao cinema uma vez por mês.",
     "blanks": [
       {
@@ -593,6 +635,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "futuro próximo",
     "sentence": "Nós ________ uma reunião amanhã cedo.",
     "blanks": [
       {
@@ -607,6 +650,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "Nós ________ responsáveis pelo projeto.",
     "blanks": [
       {
@@ -621,6 +665,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "Nós ________ prontos para começar.",
     "blanks": [
       {
@@ -635,7 +680,8 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
-    "sentence": "Nós ________ trabalhar em silêncio.",
+    "hint": "costume",
+    "sentence": "Nós sempre ________ trabalhar em silêncio.",
     "blanks": [
       {
         "hint": "preferir",
@@ -649,6 +695,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "futuro próximo",
     "sentence": "Nós ________ entregar hoje.",
     "blanks": [
       {
@@ -663,6 +710,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "Nós ________ orientação quando há dúvida.",
     "blanks": [
       {
@@ -677,6 +725,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "A gente ________ perto da universidade.",
     "blanks": [
       {
@@ -691,6 +740,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "A gente ________ melhor de manhã.",
     "blanks": [
       {
@@ -705,6 +755,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "ação em andamento",
     "sentence": "A gente ________ o problema agora.",
     "blanks": [
       {
@@ -719,6 +770,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "A gente ________ o sistema todos os dias.",
     "blanks": [
       {
@@ -733,6 +785,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "A gente ________ compras no fim de semana.",
     "blanks": [
       {
@@ -747,6 +800,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "A gente ________ ao parque aos domingos.",
     "blanks": [
       {
@@ -761,6 +815,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "A gente ________ pouco tempo hoje.",
     "blanks": [
       {
@@ -775,6 +830,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "A gente ________ uma equipe pequena.",
     "blanks": [
       {
@@ -789,6 +845,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "A gente ________ animado com a viagem.",
     "blanks": [
       {
@@ -803,6 +860,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "A gente ________ começar cedo.",
     "blanks": [
       {
@@ -817,6 +875,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "A gente ________ aprender com os erros.",
     "blanks": [
       {
@@ -831,6 +890,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "A gente ________ confirmação por e-mail.",
     "blanks": [
       {
@@ -845,6 +905,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "Eles ________ numa cidade pequena.",
     "blanks": [
       {
@@ -859,6 +920,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "Eles ________ em horários diferentes.",
     "blanks": [
       {
@@ -873,6 +935,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "Eles ________ bem a proposta.",
     "blanks": [
       {
@@ -887,6 +950,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "Eles ________ a loja no domingo.",
     "blanks": [
       {
@@ -901,6 +965,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "Eles ________ muitas perguntas.",
     "blanks": [
       {
@@ -915,6 +980,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "Eles ________ para a praia nas férias.",
     "blanks": [
       {
@@ -929,6 +995,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "Eles ________ experiência na área.",
     "blanks": [
       {
@@ -943,6 +1010,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "Eles ________ professores.",
     "blanks": [
       {
@@ -957,6 +1025,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "Eles ________ satisfeitos com o curso.",
     "blanks": [
       {
@@ -971,6 +1040,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "Eles ________ reuniões curtas.",
     "blanks": [
       {
@@ -985,6 +1055,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "Eles ________ falar devagar quando querem.",
     "blanks": [
       {
@@ -999,6 +1070,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "Eles sempre ________ detalhes técnicos.",
     "blanks": [
       {
@@ -1013,6 +1085,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "As crianças ________ perto da escola.",
     "blanks": [
       {
@@ -1027,6 +1100,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "ação em andamento",
     "sentence": "As crianças ________ no projeto da feira.",
     "blanks": [
       {
@@ -1041,6 +1115,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "As crianças ________ histórias simples.",
     "blanks": [
       {
@@ -1055,6 +1130,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "As crianças ________ os presentes com cuidado.",
     "blanks": [
       {
@@ -1069,6 +1145,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "As crianças ________ desenhos todos os dias.",
     "blanks": [
       {
@@ -1083,6 +1160,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "As crianças ________ ao parque com os pais.",
     "blanks": [
       {
@@ -1097,6 +1175,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "As crianças ________ muita energia.",
     "blanks": [
       {
@@ -1111,6 +1190,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "As crianças ________ curiosas.",
     "blanks": [
       {
@@ -1125,6 +1205,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "As crianças ________ quietas hoje.",
     "blanks": [
       {
@@ -1139,6 +1220,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "As crianças ________ brincar do lado de fora.",
     "blanks": [
       {
@@ -1153,6 +1235,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "As crianças ________ aprender rápido.",
     "blanks": [
       {
@@ -1167,6 +1250,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "As crianças ________ água depois da corrida.",
     "blanks": [
       {
@@ -1181,6 +1265,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "verdade geral",
     "sentence": "O Brasil ________ muitos sotaques diferentes.",
     "blanks": [
       {
@@ -1195,6 +1280,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "verdade geral",
     "sentence": "A água ________ a 100 graus Celsius ao nível do mar.",
     "blanks": [
       {
@@ -1209,6 +1295,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "verdade geral",
     "sentence": "O sol ________ no leste.",
     "blanks": [
       {
@@ -1223,6 +1310,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "verdade geral",
     "sentence": "A Terra ________ em torno do Sol.",
     "blanks": [
       {
@@ -1237,6 +1325,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "verdade geral",
     "sentence": "O português brasileiro ________ muitas expressões regionais.",
     "blanks": [
       {
@@ -1251,6 +1340,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "verdade geral",
     "sentence": "Esta palavra ________ no texto várias vezes.",
     "blanks": [
       {
@@ -1265,6 +1355,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "O ônibus ________ aqui a cada meia hora.",
     "blanks": [
       {
@@ -1279,6 +1370,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "O supermercado ________ às oito.",
     "blanks": [
       {
@@ -1293,6 +1385,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "verdade geral",
     "sentence": "O restaurante ________ comida caseira.",
     "blanks": [
       {
@@ -1307,6 +1400,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "Meu celular ________ pouca bateria.",
     "blanks": [
       {
@@ -1321,6 +1415,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "Minha irmã ________ muito bem.",
     "blanks": [
       {
@@ -1335,6 +1430,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "Meu pai ________ cedo todos os dias.",
     "blanks": [
       {
@@ -1349,6 +1445,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "Minha mãe ________ notícias pela manhã.",
     "blanks": [
       {
@@ -1363,6 +1460,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "Meu amigo ________ de bicicleta para o trabalho.",
     "blanks": [
       {
@@ -1377,6 +1475,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "costume",
     "sentence": "Minha vizinha ________ plantas na varanda.",
     "blanks": [
       {
@@ -1391,6 +1490,7 @@ const questions = [
     "tenses": [
       "Presente Indicativo"
     ],
+    "hint": "estado atual",
     "sentence": "O professor ________ exemplos claros.",
     "blanks": [
       {
@@ -1855,6 +1955,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Ontem eu ________ o relatório final.",
     "blanks": [
       {
@@ -1869,6 +1970,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Ontem eu ________ até mais tarde.",
     "blanks": [
       {
@@ -1883,6 +1985,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Ontem eu ________ a explicação inteira.",
     "blanks": [
       {
@@ -1897,6 +2000,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Ontem eu ________ a porta para o técnico.",
     "blanks": [
       {
@@ -1911,6 +2015,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Ontem eu ________ uma reserva no restaurante.",
     "blanks": [
       {
@@ -1925,6 +2030,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Ontem eu ________ ao médico.",
     "blanks": [
       {
@@ -1939,6 +2045,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Ontem eu ________ uma reunião importante.",
     "blanks": [
       {
@@ -1953,6 +2060,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Ontem eu ________ o responsável pela apresentação.",
     "blanks": [
       {
@@ -1967,6 +2075,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Ontem eu ________ no escritório pela manhã.",
     "blanks": [
       {
@@ -1981,6 +2090,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Ontem eu ________ ficar em casa.",
     "blanks": [
       {
@@ -1995,6 +2105,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Ontem eu ________ resolver o problema.",
     "blanks": [
       {
@@ -2009,6 +2120,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Ontem eu ________ ajuda ao professor.",
     "blanks": [
       {
@@ -2023,6 +2135,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "Na semana passada eu ________ de apartamento.",
     "blanks": [
       {
@@ -2037,6 +2150,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "Na semana passada eu ________ num projeto novo.",
     "blanks": [
       {
@@ -2051,6 +2165,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "Na semana passada eu ________ melhor o sotaque carioca.",
     "blanks": [
       {
@@ -2065,6 +2180,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "Na semana passada eu ________ uma conta no banco.",
     "blanks": [
       {
@@ -2079,6 +2195,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "Na semana passada eu ________ muitos exercícios.",
     "blanks": [
       {
@@ -2093,6 +2210,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "Na semana passada eu ________ a Brasília.",
     "blanks": [
       {
@@ -2107,6 +2225,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "Na semana passada eu ________ pouco tempo livre.",
     "blanks": [
       {
@@ -2121,6 +2240,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "Na semana passada eu ________ o representante da turma.",
     "blanks": [
       {
@@ -2135,6 +2255,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "Na semana passada eu ________ doente dois dias.",
     "blanks": [
       {
@@ -2149,6 +2270,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "Na semana passada eu ________ estudar à noite.",
     "blanks": [
       {
@@ -2163,6 +2285,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "Na semana passada eu ________ falar com a diretora.",
     "blanks": [
       {
@@ -2177,6 +2300,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "Na semana passada eu ________ uma segunda via do documento.",
     "blanks": [
       {
@@ -2191,6 +2315,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "Em 2022 eu ________ em Salvador por seis meses.",
     "blanks": [
       {
@@ -2205,6 +2330,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "Em 2022 eu ________ numa empresa pequena.",
     "blanks": [
       {
@@ -2219,6 +2345,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "Em 2022 eu ________ muita coisa sobre política brasileira.",
     "blanks": [
       {
@@ -2233,6 +2360,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "Em 2022 eu ________ minha primeira empresa.",
     "blanks": [
       {
@@ -2247,6 +2375,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "Em 2022 eu ________ uma viagem longa.",
     "blanks": [
       {
@@ -2261,6 +2390,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "Em 2022 eu ________ ao Nordeste pela primeira vez.",
     "blanks": [
       {
@@ -2275,6 +2405,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "Em 2022 eu ________ uma experiência importante.",
     "blanks": [
       {
@@ -2289,6 +2420,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "Em 2022 eu ________ voluntário num projeto social.",
     "blanks": [
       {
@@ -2303,6 +2435,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "Em 2022 eu ________ em Recife durante o verão.",
     "blanks": [
       {
@@ -2317,6 +2450,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "Em 2022 eu ________ morar perto da praia.",
     "blanks": [
       {
@@ -2331,6 +2465,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "Em 2022 eu ________ tirar férias.",
     "blanks": [
       {
@@ -2345,6 +2480,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "Em 2022 eu ________ transferência para outra equipe.",
     "blanks": [
       {
@@ -2359,6 +2495,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "sequência de eventos",
     "sentence": "Quando cheguei, eu ________ a luz da sala.",
     "blanks": [
       {
@@ -2373,6 +2510,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "sequência de eventos",
     "sentence": "Quando cheguei, eu ________ com a recepcionista.",
     "blanks": [
       {
@@ -2387,6 +2525,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "sequência de eventos",
     "sentence": "Quando cheguei, eu ________ o recado.",
     "blanks": [
       {
@@ -2401,6 +2540,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "sequência de eventos",
     "sentence": "Quando cheguei, eu ________ a janela.",
     "blanks": [
       {
@@ -2415,6 +2555,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "sequência de eventos",
     "sentence": "Quando cheguei, eu ________ o cadastro.",
     "blanks": [
       {
@@ -2429,6 +2570,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "sequência de eventos",
     "sentence": "Quando cheguei, eu ________ direto para a sala.",
     "blanks": [
       {
@@ -2443,6 +2585,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "sequência de eventos",
     "sentence": "Quando cheguei, eu ________ uma surpresa.",
     "blanks": [
       {
@@ -2457,6 +2600,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "sequência de eventos",
     "sentence": "Quando cheguei, eu ________ bem recebido.",
     "blanks": [
       {
@@ -2471,6 +2615,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "sequência de eventos",
     "sentence": "Quando cheguei, eu ________ alguns minutos na entrada.",
     "blanks": [
       {
@@ -2485,6 +2630,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "sequência de eventos",
     "sentence": "Quando cheguei, eu ________ esperar lá fora.",
     "blanks": [
       {
@@ -2499,6 +2645,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "sequência de eventos",
     "sentence": "Quando cheguei, eu ________ entrar sem problema.",
     "blanks": [
       {
@@ -2513,6 +2660,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "sequência de eventos",
     "sentence": "Quando cheguei, eu ________ informação na portaria.",
     "blanks": [
       {
@@ -2527,6 +2675,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "No mês passado eu ________ um curso intensivo.",
     "blanks": [
       {
@@ -2541,6 +2690,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "No mês passado eu ________ muito em português.",
     "blanks": [
       {
@@ -2555,6 +2705,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "No mês passado eu ________ três livros.",
     "blanks": [
       {
@@ -2569,6 +2720,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "No mês passado eu ________ um novo computador.",
     "blanks": [
       {
@@ -2583,6 +2735,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "No mês passado eu ________ minha rotina.",
     "blanks": [
       {
@@ -2597,6 +2750,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "No mês passado eu ________ de cidade.",
     "blanks": [
       {
@@ -2611,6 +2765,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "No mês passado eu ________ uma notícia boa.",
     "blanks": [
       {
@@ -2625,6 +2780,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "No mês passado eu ________ promovido.",
     "blanks": [
       {
@@ -2639,6 +2795,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "No mês passado eu ________ muito ocupado.",
     "blanks": [
       {
@@ -2653,6 +2810,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "No mês passado eu ________ não viajar.",
     "blanks": [
       {
@@ -2667,6 +2825,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "No mês passado eu ________ economizar dinheiro.",
     "blanks": [
       {
@@ -2681,6 +2840,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação concluída",
     "sentence": "No mês passado eu ________ um orçamento.",
     "blanks": [
       {
@@ -2695,6 +2855,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Na última reunião, eu ________ uma ideia nova.",
     "blanks": [
       {
@@ -2709,6 +2870,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Na última reunião, eu ________ com calma.",
     "blanks": [
       {
@@ -2723,6 +2885,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Na última reunião, eu ________ todos os pontos.",
     "blanks": [
       {
@@ -2737,6 +2900,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Na última reunião, eu ________ o arquivo certo.",
     "blanks": [
       {
@@ -2751,6 +2915,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Na última reunião, eu ________ uma pergunta difícil.",
     "blanks": [
       {
@@ -2765,6 +2930,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Na última reunião, eu ________ ao quadro explicar o fluxo.",
     "blanks": [
       {
@@ -2779,6 +2945,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Na última reunião, eu ________ uma dúvida.",
     "blanks": [
       {
@@ -2793,6 +2960,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Na última reunião, eu ________ escolhido para apresentar.",
     "blanks": [
       {
@@ -2807,6 +2975,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Na última reunião, eu ________ presente até o final.",
     "blanks": [
       {
@@ -2821,6 +2990,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Na última reunião, eu ________ não comentar o assunto.",
     "blanks": [
       {
@@ -2835,6 +3005,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Na última reunião, eu ________ responder tudo.",
     "blanks": [
       {
@@ -2849,6 +3020,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Na última reunião, eu ________ mais detalhes.",
     "blanks": [
       {
@@ -2863,6 +3035,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Hoje cedo eu ________ antes do despertador.",
     "blanks": [
       {
@@ -2877,6 +3050,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Hoje cedo eu ________ por meia hora.",
     "blanks": [
       {
@@ -2891,6 +3065,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Hoje cedo eu ________ o e-mail do cliente.",
     "blanks": [
       {
@@ -2905,6 +3080,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Hoje cedo eu ________ a caixa de entrada.",
     "blanks": [
       {
@@ -2919,6 +3095,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Hoje cedo eu ________ café para todos.",
     "blanks": [
       {
@@ -2933,6 +3110,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Hoje cedo eu ________ ao banco.",
     "blanks": [
       {
@@ -2947,6 +3125,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Hoje cedo eu ________ uma ligação urgente.",
     "blanks": [
       {
@@ -2961,6 +3140,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Hoje cedo eu ________ o primeiro a chegar.",
     "blanks": [
       {
@@ -2975,6 +3155,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Hoje cedo eu ________ no centro.",
     "blanks": [
       {
@@ -2989,6 +3170,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Hoje cedo eu ________ resolver isso logo.",
     "blanks": [
       {
@@ -3003,6 +3185,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Hoje cedo eu ________ falar com ela.",
     "blanks": [
       {
@@ -3017,6 +3200,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "Hoje cedo eu ________ orientação ao suporte.",
     "blanks": [
       {
@@ -3031,6 +3215,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "sequência de eventos",
     "sentence": "Depois do jantar, eu ________ a cozinha.",
     "blanks": [
       {
@@ -3045,6 +3230,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "sequência de eventos",
     "sentence": "Depois do jantar, eu ________ um pouco.",
     "blanks": [
       {
@@ -3059,6 +3245,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "sequência de eventos",
     "sentence": "Depois do jantar, eu ________ a mensagem.",
     "blanks": [
       {
@@ -3073,6 +3260,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "sequência de eventos",
     "sentence": "Depois do jantar, eu ________ o computador.",
     "blanks": [
       {
@@ -3087,6 +3275,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "sequência de eventos",
     "sentence": "Depois do jantar, eu ________ uma lista de tarefas.",
     "blanks": [
       {
@@ -3101,6 +3290,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "sequência de eventos",
     "sentence": "Depois do jantar, eu ________ para casa de táxi.",
     "blanks": [
       {
@@ -3115,6 +3305,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "sequência de eventos",
     "sentence": "Depois do jantar, eu ________ uma conversa importante.",
     "blanks": [
       {
@@ -3129,6 +3320,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "sequência de eventos",
     "sentence": "Depois do jantar, eu ________ sincero com ele.",
     "blanks": [
       {
@@ -3143,6 +3335,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "sequência de eventos",
     "sentence": "Depois do jantar, eu ________ na varanda.",
     "blanks": [
       {
@@ -3157,6 +3350,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "sequência de eventos",
     "sentence": "Depois do jantar, eu ________ ficar em silêncio.",
     "blanks": [
       {
@@ -3171,6 +3365,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "sequência de eventos",
     "sentence": "Depois do jantar, eu ________ terminar o capítulo.",
     "blanks": [
       {
@@ -3185,6 +3380,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "sequência de eventos",
     "sentence": "Depois do jantar, eu ________ a conta.",
     "blanks": [
       {
@@ -3199,6 +3395,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "No domingo passado, eu ________ meus avós.",
     "blanks": [
       {
@@ -3213,6 +3410,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "No domingo passado, eu ________ no jardim.",
     "blanks": [
       {
@@ -3227,6 +3425,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "No domingo passado, eu ________ a história da família.",
     "blanks": [
       {
@@ -3241,6 +3440,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Indicativo"
     ],
+    "hint": "ação pontual no passado",
     "sentence": "No domingo passado, eu ________ uma garrafa de vinho.",
     "blanks": [
       {
@@ -3705,6 +3905,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "descrição no passado",
     "sentence": "Quando eu era criança, eu ________ numa rua tranquila.",
     "blanks": [
       {
@@ -3719,6 +3920,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Quando eu era criança, eu ________ com meu pai na loja.",
     "blanks": [
       {
@@ -3733,6 +3935,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "descrição no passado",
     "sentence": "Quando eu era criança, eu não ________ muitas piadas.",
     "blanks": [
       {
@@ -3747,6 +3950,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Quando eu era criança, eu ________ os presentes com cuidado.",
     "blanks": [
       {
@@ -3761,6 +3965,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Quando eu era criança, eu ________ desenhos todos os dias.",
     "blanks": [
       {
@@ -3775,6 +3980,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Quando eu era criança, eu ________ à escola a pé.",
     "blanks": [
       {
@@ -3789,6 +3995,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "descrição no passado",
     "sentence": "Quando eu era criança, eu ________ muito medo de escuro.",
     "blanks": [
       {
@@ -3803,6 +4010,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "descrição no passado",
     "sentence": "Quando eu era criança, eu ________ muito curioso.",
     "blanks": [
       {
@@ -3817,6 +4025,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Quando eu era criança, eu ________ sempre com meus primos.",
     "blanks": [
       {
@@ -3831,6 +4040,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Quando eu era criança, eu ________ brincar na rua.",
     "blanks": [
       {
@@ -3845,6 +4055,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "descrição no passado",
     "sentence": "Quando eu era criança, eu não ________ dormir cedo.",
     "blanks": [
       {
@@ -3859,6 +4070,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Quando eu era criança, eu sempre ________ histórias antes de dormir.",
     "blanks": [
       {
@@ -3873,6 +4085,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "descrição no passado",
     "sentence": "Naquela época, nós ________ perto da praia.",
     "blanks": [
       {
@@ -3887,6 +4100,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Naquela época, nós ________ aos sábados.",
     "blanks": [
       {
@@ -3901,6 +4115,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "descrição no passado",
     "sentence": "Naquela época, nós ________ pouco de tecnologia.",
     "blanks": [
       {
@@ -3915,6 +4130,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Naquela época, nós ________ a loja mais cedo.",
     "blanks": [
       {
@@ -3929,6 +4145,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Naquela época, nós ________ tudo manualmente.",
     "blanks": [
       {
@@ -3943,6 +4160,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Naquela época, nós ________ de ônibus para o centro.",
     "blanks": [
       {
@@ -3957,6 +4175,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "descrição no passado",
     "sentence": "Naquela época, nós ________ menos recursos.",
     "blanks": [
       {
@@ -3971,6 +4190,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "descrição no passado",
     "sentence": "Naquela época, nós ________ muito jovens.",
     "blanks": [
       {
@@ -3985,6 +4205,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Naquela época, nós ________ sempre ocupados.",
     "blanks": [
       {
@@ -3999,6 +4220,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Naquela época, nós ________ reuniões presenciais.",
     "blanks": [
       {
@@ -4013,6 +4235,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "descrição no passado",
     "sentence": "Naquela época, nós não ________ resolver tudo on-line.",
     "blanks": [
       {
@@ -4027,6 +4250,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Naquela época, nós ________ ajuda aos vizinhos.",
     "blanks": [
       {
@@ -4041,6 +4265,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ações simultâneas",
     "sentence": "Enquanto eu estudava, minha irmã ________ música.",
     "blanks": [
       {
@@ -4055,6 +4280,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ações simultâneas",
     "sentence": "Enquanto eu estudava, meu pai ________ no escritório.",
     "blanks": [
       {
@@ -4069,6 +4295,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ações simultâneas",
     "sentence": "Enquanto eu estudava, eu ________ melhor o conteúdo.",
     "blanks": [
       {
@@ -4083,6 +4310,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ações simultâneas",
     "sentence": "Enquanto eu estudava, minha mãe ________ a janela.",
     "blanks": [
       {
@@ -4097,6 +4325,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ações simultâneas",
     "sentence": "Enquanto eu estudava, meu irmão ________ barulho.",
     "blanks": [
       {
@@ -4111,6 +4340,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ações simultâneas",
     "sentence": "Enquanto eu estudava, ela ________ para a faculdade.",
     "blanks": [
       {
@@ -4125,6 +4355,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ações simultâneas",
     "sentence": "Enquanto eu estudava, eu ________ pouca concentração.",
     "blanks": [
       {
@@ -4139,6 +4370,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ações simultâneas",
     "sentence": "Enquanto eu estudava, o ambiente ________ silencioso.",
     "blanks": [
       {
@@ -4153,6 +4385,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ações simultâneas",
     "sentence": "Enquanto eu estudava, todos ________ em casa.",
     "blanks": [
       {
@@ -4167,6 +4400,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ações simultâneas",
     "sentence": "Enquanto eu estudava, eu ________ ficar sozinho.",
     "blanks": [
       {
@@ -4181,6 +4415,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ações simultâneas",
     "sentence": "Enquanto eu estudava, eu não ________ prestar atenção.",
     "blanks": [
       {
@@ -4195,6 +4430,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ações simultâneas",
     "sentence": "Enquanto eu estudava, ele ________ silêncio.",
     "blanks": [
       {
@@ -4209,6 +4445,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "descrição no passado",
     "sentence": "Antes da mudança, eu ________ longe do trabalho.",
     "blanks": [
       {
@@ -4223,6 +4460,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Antes da mudança, eu ________ mais horas por dia.",
     "blanks": [
       {
@@ -4237,6 +4475,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "descrição no passado",
     "sentence": "Antes da mudança, eu ________ pouco o bairro.",
     "blanks": [
       {
@@ -4251,6 +4490,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Antes da mudança, eu ________ as caixas todo fim de semana.",
     "blanks": [
       {
@@ -4265,6 +4505,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Antes da mudança, eu ________ tudo com calma.",
     "blanks": [
       {
@@ -4279,6 +4520,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Antes da mudança, eu ________ ao centro todos os dias.",
     "blanks": [
       {
@@ -4293,6 +4535,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "descrição no passado",
     "sentence": "Antes da mudança, eu ________ uma rotina diferente.",
     "blanks": [
       {
@@ -4307,6 +4550,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "descrição no passado",
     "sentence": "Antes da mudança, eu ________ mais tranquilo.",
     "blanks": [
       {
@@ -4321,6 +4565,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Antes da mudança, eu ________ sempre cansado.",
     "blanks": [
       {
@@ -4335,6 +4580,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Antes da mudança, eu ________ morar perto do parque.",
     "blanks": [
       {
@@ -4349,6 +4595,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "descrição no passado",
     "sentence": "Antes da mudança, eu ________ dormir melhor.",
     "blanks": [
       {
@@ -4363,6 +4610,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Antes da mudança, eu ________ carona aos colegas.",
     "blanks": [
       {
@@ -4377,6 +4625,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Todo verão, a família ________ no interior.",
     "blanks": [
       {
@@ -4391,6 +4640,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Todo verão, meu tio ________ na feira.",
     "blanks": [
       {
@@ -4405,6 +4655,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Todo verão, eu ________ melhor as histórias dos avós.",
     "blanks": [
       {
@@ -4419,6 +4670,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Todo verão, minha avó ________ a casa para todos.",
     "blanks": [
       {
@@ -4433,6 +4685,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Todo verão, a gente ________ bolo de milho.",
     "blanks": [
       {
@@ -4447,6 +4700,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Todo verão, a gente ________ ao rio.",
     "blanks": [
       {
@@ -4461,6 +4715,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Todo verão, as crianças ________ muitas férias livres.",
     "blanks": [
       {
@@ -4475,6 +4730,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Todo verão, os dias ________ longos.",
     "blanks": [
       {
@@ -4489,6 +4745,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Todo verão, todos ________ felizes lá.",
     "blanks": [
       {
@@ -4503,6 +4760,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Todo verão, eu ________ acordar tarde.",
     "blanks": [
       {
@@ -4517,6 +4775,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Todo verão, eu ________ nadar melhor.",
     "blanks": [
       {
@@ -4531,6 +4790,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Todo verão, as crianças ________ sorvete.",
     "blanks": [
       {
@@ -4545,6 +4805,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Quando morávamos lá, o ônibus ________ na esquina.",
     "blanks": [
       {
@@ -4559,6 +4820,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Quando morávamos lá, minha mãe ________ em casa.",
     "blanks": [
       {
@@ -4573,6 +4835,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Quando morávamos lá, eu ________ as conversas dos vizinhos.",
     "blanks": [
       {
@@ -4587,6 +4850,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Quando morávamos lá, o porteiro ________ o portão às seis.",
     "blanks": [
       {
@@ -4601,6 +4865,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Quando morávamos lá, meu pai ________ o jantar.",
     "blanks": [
       {
@@ -4615,6 +4880,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Quando morávamos lá, todo mundo ________ ao mercado a pé.",
     "blanks": [
       {
@@ -4629,6 +4895,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "descrição no passado",
     "sentence": "Quando morávamos lá, a casa ________ três quartos.",
     "blanks": [
       {
@@ -4643,6 +4910,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "descrição no passado",
     "sentence": "Quando morávamos lá, a vizinhança ________ calma.",
     "blanks": [
       {
@@ -4657,6 +4925,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Quando morávamos lá, os amigos sempre ________ por perto.",
     "blanks": [
       {
@@ -4671,6 +4940,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Quando morávamos lá, eu ________ estudar na varanda.",
     "blanks": [
       {
@@ -4685,6 +4955,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "descrição no passado",
     "sentence": "Quando morávamos lá, eu ________ dormir sem barulho.",
     "blanks": [
       {
@@ -4699,6 +4970,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Quando morávamos lá, eu ________ pão na padaria da esquina.",
     "blanks": [
       {
@@ -4713,6 +4985,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "descrição no passado",
     "sentence": "No meu primeiro emprego, eu ________ numa república.",
     "blanks": [
       {
@@ -4727,6 +5000,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "No meu primeiro emprego, eu ________ muito aos fins de semana.",
     "blanks": [
       {
@@ -4741,6 +5015,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "descrição no passado",
     "sentence": "No meu primeiro emprego, eu ainda não ________ os processos.",
     "blanks": [
       {
@@ -4755,6 +5030,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "No meu primeiro emprego, eu ________ a loja cedo.",
     "blanks": [
       {
@@ -4769,6 +5045,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "No meu primeiro emprego, eu ________ muitas planilhas.",
     "blanks": [
       {
@@ -4783,6 +5060,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "No meu primeiro emprego, eu ________ de metrô.",
     "blanks": [
       {
@@ -4797,6 +5075,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "descrição no passado",
     "sentence": "No meu primeiro emprego, eu ________ pouca autonomia.",
     "blanks": [
       {
@@ -4811,6 +5090,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "descrição no passado",
     "sentence": "No meu primeiro emprego, eu ________ assistente administrativo.",
     "blanks": [
       {
@@ -4825,6 +5105,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "No meu primeiro emprego, eu ________ sempre aprendendo.",
     "blanks": [
       {
@@ -4839,6 +5120,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "No meu primeiro emprego, eu ________ tarefas bem definidas.",
     "blanks": [
       {
@@ -4853,6 +5135,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "descrição no passado",
     "sentence": "No meu primeiro emprego, eu não ________ negociar prazos.",
     "blanks": [
       {
@@ -4867,6 +5150,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "No meu primeiro emprego, eu ________ feedback todo mês.",
     "blanks": [
       {
@@ -4881,6 +5165,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Antigamente, as pessoas ________ menos tecnologia.",
     "blanks": [
       {
@@ -4895,6 +5180,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Antigamente, muita gente ________ cartas.",
     "blanks": [
       {
@@ -4909,6 +5195,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Antigamente, as crianças ________ mais na rua.",
     "blanks": [
       {
@@ -4923,6 +5210,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "descrição no passado",
     "sentence": "Antigamente, a cidade ________ menos trânsito.",
     "blanks": [
       {
@@ -4937,6 +5225,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "descrição no passado",
     "sentence": "Antigamente, o bairro ________ mais silencioso.",
     "blanks": [
       {
@@ -4951,6 +5240,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Antigamente, meus avós ________ sempre na praça.",
     "blanks": [
       {
@@ -4965,6 +5255,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Antigamente, a gente ________ rádio de manhã.",
     "blanks": [
       {
@@ -4979,6 +5270,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Antigamente, o comércio ________ mais cedo.",
     "blanks": [
       {
@@ -4993,6 +5285,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Antigamente, eu ________ histórias antes de dormir.",
     "blanks": [
       {
@@ -5007,6 +5300,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Antigamente, nós ________ tudo no papel.",
     "blanks": [
       {
@@ -5021,6 +5315,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "descrição no passado",
     "sentence": "Antigamente, eles ________ mais tempo livre.",
     "blanks": [
       {
@@ -5035,6 +5330,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação habitual no passado",
     "sentence": "Antigamente, eu ________ viajar de trem.",
     "blanks": [
       {
@@ -5049,6 +5345,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação em andamento no passado",
     "sentence": "Durante a viagem, chovia e a estrada ________ perigosa.",
     "blanks": [
       {
@@ -5063,6 +5360,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "descrição no passado",
     "sentence": "Durante a viagem, todos ________ cansados.",
     "blanks": [
       {
@@ -5077,6 +5375,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação em andamento no passado",
     "sentence": "Durante a viagem, o motorista ________ devagar.",
     "blanks": [
       {
@@ -5091,6 +5390,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Indicativo"
     ],
+    "hint": "ação em andamento no passado",
     "sentence": "Durante a viagem, eu ________ pela janela.",
     "blanks": [
       {
@@ -5555,6 +5855,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Espero que eu ________ a resposta certa.",
     "blanks": [
       {
@@ -5569,6 +5870,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Espero que eu ________ melhorar logo.",
     "blanks": [
       {
@@ -5583,6 +5885,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Espero que eu ________ bem na entrevista.",
     "blanks": [
       {
@@ -5597,6 +5900,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Espero que eu ________ calmo durante a prova.",
     "blanks": [
       {
@@ -5611,6 +5915,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Espero que eu ________ tempo para revisar.",
     "blanks": [
       {
@@ -5625,6 +5930,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Espero que eu ________ mais claro desta vez.",
     "blanks": [
       {
@@ -5639,6 +5945,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Espero que eu ________ em casa antes das oito.",
     "blanks": [
       {
@@ -5653,6 +5960,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Espero que eu ________ a melhor opção.",
     "blanks": [
       {
@@ -5667,6 +5975,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Espero que eu ________ tudo hoje.",
     "blanks": [
       {
@@ -5681,6 +5990,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Espero que eu ________ ajuda se precisar.",
     "blanks": [
       {
@@ -5695,6 +6005,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Tomara que você ________ bem.",
     "blanks": [
       {
@@ -5709,6 +6020,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Tomara que você ________ a explicação.",
     "blanks": [
       {
@@ -5723,6 +6035,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Tomara que você ________ a porta certa.",
     "blanks": [
       {
@@ -5737,6 +6050,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Tomara que você ________ uma boa prova.",
     "blanks": [
       {
@@ -5751,6 +6065,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Tomara que você ________ com cuidado.",
     "blanks": [
       {
@@ -5765,6 +6080,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Tomara que você ________ tempo.",
     "blanks": [
       {
@@ -5779,6 +6095,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Tomara que você ________ feliz aqui.",
     "blanks": [
       {
@@ -5793,6 +6110,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Tomara que você ________ disponível amanhã.",
     "blanks": [
       {
@@ -5807,6 +6125,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Tomara que você ________ o caminho certo.",
     "blanks": [
       {
@@ -5821,6 +6140,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Tomara que você ________ falar com ela.",
     "blanks": [
       {
@@ -5835,6 +6155,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "É importante que nós ________ cedo.",
     "blanks": [
       {
@@ -5849,6 +6170,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "É importante que nós ________ com atenção.",
     "blanks": [
       {
@@ -5863,6 +6185,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "É importante que nós ________ a regra.",
     "blanks": [
       {
@@ -5877,6 +6200,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "É importante que nós ________ o arquivo correto.",
     "blanks": [
       {
@@ -5891,6 +6215,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "É importante que nós ________ perguntas.",
     "blanks": [
       {
@@ -5905,6 +6230,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "É importante que nós ________ juntos.",
     "blanks": [
       {
@@ -5919,6 +6245,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "É importante que nós ________ paciência.",
     "blanks": [
       {
@@ -5933,6 +6260,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "É importante que nós ________ honestos.",
     "blanks": [
       {
@@ -5947,6 +6275,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "É importante que nós ________ preparados.",
     "blanks": [
       {
@@ -5961,6 +6290,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "É importante que nós ________ uma solução simples.",
     "blanks": [
       {
@@ -5975,6 +6305,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "É importante que nós ________ concluir hoje.",
     "blanks": [
       {
@@ -5989,6 +6320,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "É importante que nós ________ autorização antes.",
     "blanks": [
       {
@@ -6003,6 +6335,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Quero que você ________ aqui às nove.",
     "blanks": [
       {
@@ -6017,6 +6350,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Quero que você ________ o texto em voz alta.",
     "blanks": [
       {
@@ -6031,6 +6365,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Quero que você ________ mais devagar.",
     "blanks": [
       {
@@ -6045,6 +6380,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Quero que você ________ o documento.",
     "blanks": [
       {
@@ -6059,6 +6395,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Quero que você ________ uma revisão final.",
     "blanks": [
       {
@@ -6073,6 +6410,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Quero que você ________ ao médico.",
     "blanks": [
       {
@@ -6087,6 +6425,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Quero que você ________ cuidado.",
     "blanks": [
       {
@@ -6101,6 +6440,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Quero que você ________ sincero.",
     "blanks": [
       {
@@ -6115,6 +6455,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Quero que você ________ atento aos detalhes.",
     "blanks": [
       {
@@ -6129,6 +6470,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Quero que você ________ a alternativa correta.",
     "blanks": [
       {
@@ -6143,6 +6485,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Quero que você ________ terminar isso hoje.",
     "blanks": [
       {
@@ -6157,6 +6500,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "desejo",
     "sentence": "Quero que você ________ desculpas.",
     "blanks": [
       {
@@ -6171,6 +6515,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "dúvida",
     "sentence": "Talvez ela ________ perto do trabalho.",
     "blanks": [
       {
@@ -6185,6 +6530,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "dúvida",
     "sentence": "Talvez ela ________ hoje à tarde.",
     "blanks": [
       {
@@ -6199,6 +6545,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "dúvida",
     "sentence": "Talvez ela ________ a diferença.",
     "blanks": [
       {
@@ -6213,6 +6560,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "dúvida",
     "sentence": "Talvez ela ________ a loja mais cedo.",
     "blanks": [
       {
@@ -6227,6 +6575,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "dúvida",
     "sentence": "Talvez ela ________ um comentário.",
     "blanks": [
       {
@@ -6241,6 +6590,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "dúvida",
     "sentence": "Talvez ela ________ de carro.",
     "blanks": [
       {
@@ -6255,6 +6605,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "dúvida",
     "sentence": "Talvez ela ________ razão.",
     "blanks": [
       {
@@ -6269,6 +6620,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "dúvida",
     "sentence": "Talvez ela ________ a pessoa certa.",
     "blanks": [
       {
@@ -6283,6 +6635,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "dúvida",
     "sentence": "Talvez ela ________ no escritório.",
     "blanks": [
       {
@@ -6297,6 +6650,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "dúvida",
     "sentence": "Talvez ela ________ a opção mais barata.",
     "blanks": [
       {
@@ -6311,6 +6665,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "dúvida",
     "sentence": "Talvez ela ________ resolver sozinha.",
     "blanks": [
       {
@@ -6325,6 +6680,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "dúvida",
     "sentence": "Talvez ela ________ mais informações.",
     "blanks": [
       {
@@ -6339,6 +6695,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "dúvida",
     "sentence": "Duvido que eles ________ aqui perto.",
     "blanks": [
       {
@@ -6353,6 +6710,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "dúvida",
     "sentence": "Duvido que eles ________ no domingo.",
     "blanks": [
       {
@@ -6367,6 +6725,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "dúvida",
     "sentence": "Duvido que eles ________ tudo tão rápido.",
     "blanks": [
       {
@@ -6381,6 +6740,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "dúvida",
     "sentence": "Duvido que eles ________ o sistema sem senha.",
     "blanks": [
       {
@@ -6395,6 +6755,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "dúvida",
     "sentence": "Duvido que eles ________ isso sozinhos.",
     "blanks": [
       {
@@ -6409,6 +6770,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "dúvida",
     "sentence": "Duvido que eles ________ agora.",
     "blanks": [
       {
@@ -6423,6 +6785,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "dúvida",
     "sentence": "Duvido que eles ________ tempo hoje.",
     "blanks": [
       {
@@ -6437,6 +6800,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "dúvida",
     "sentence": "Duvido que eles ________ culpados.",
     "blanks": [
       {
@@ -6451,6 +6815,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "dúvida",
     "sentence": "Duvido que eles ________ satisfeitos.",
     "blanks": [
       {
@@ -6465,6 +6830,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "dúvida",
     "sentence": "Duvido que eles ________ essa solução.",
     "blanks": [
       {
@@ -6479,6 +6845,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "dúvida",
     "sentence": "Duvido que eles ________ terminar amanhã.",
     "blanks": [
       {
@@ -6493,6 +6860,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "dúvida",
     "sentence": "Duvido que eles ________ desculpas.",
     "blanks": [
       {
@@ -6507,6 +6875,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "condição incerta",
     "sentence": "É possível que a gente ________ mais cedo.",
     "blanks": [
       {
@@ -6521,6 +6890,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "condição incerta",
     "sentence": "É possível que a gente ________ em casa amanhã.",
     "blanks": [
       {
@@ -6535,6 +6905,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "condição incerta",
     "sentence": "É possível que a gente ________ melhor depois da reunião.",
     "blanks": [
       {
@@ -6549,6 +6920,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "condição incerta",
     "sentence": "É possível que a gente ________ uma nova conta.",
     "blanks": [
       {
@@ -6563,6 +6935,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "condição incerta",
     "sentence": "É possível que a gente ________ mudanças no plano.",
     "blanks": [
       {
@@ -6577,6 +6950,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "condição incerta",
     "sentence": "É possível que a gente ________ ao evento.",
     "blanks": [
       {
@@ -6591,6 +6965,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "condição incerta",
     "sentence": "É possível que a gente ________ uma resposta hoje.",
     "blanks": [
       {
@@ -6605,6 +6980,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "condição incerta",
     "sentence": "É possível que a gente ________ a única equipe disponível.",
     "blanks": [
       {
@@ -6619,6 +6995,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "condição incerta",
     "sentence": "É possível que a gente ________ atrasado.",
     "blanks": [
       {
@@ -6633,6 +7010,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "condição incerta",
     "sentence": "É possível que a gente ________ esperar.",
     "blanks": [
       {
@@ -6647,6 +7025,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "condição incerta",
     "sentence": "É possível que a gente ________ entregar tudo.",
     "blanks": [
       {
@@ -6661,6 +7040,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "condição incerta",
     "sentence": "É possível que a gente ________ apoio externo.",
     "blanks": [
       {
@@ -6675,6 +7055,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "emoção",
     "sentence": "Fico feliz que você ________ português.",
     "blanks": [
       {
@@ -6689,6 +7070,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "emoção",
     "sentence": "Fico feliz que você ________ melhor agora.",
     "blanks": [
       {
@@ -6703,6 +7085,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "emoção",
     "sentence": "Fico feliz que você ________ a janela.",
     "blanks": [
       {
@@ -6717,6 +7100,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "emoção",
     "sentence": "Fico feliz que você ________ parte da equipe.",
     "blanks": [
       {
@@ -6731,6 +7115,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "emoção",
     "sentence": "Fico feliz que você ________ conosco.",
     "blanks": [
       {
@@ -6745,6 +7130,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "emoção",
     "sentence": "Fico feliz que você ________ tempo para nós.",
     "blanks": [
       {
@@ -6759,6 +7145,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "emoção",
     "sentence": "Fico feliz que você ________ meu amigo.",
     "blanks": [
       {
@@ -6773,6 +7160,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "emoção",
     "sentence": "Fico feliz que você ________ bem.",
     "blanks": [
       {
@@ -6787,6 +7175,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "emoção",
     "sentence": "Fico feliz que você ________ ficar.",
     "blanks": [
       {
@@ -6801,6 +7190,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "emoção",
     "sentence": "Fico feliz que você ________ participar.",
     "blanks": [
       {
@@ -6815,6 +7205,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "emoção",
     "sentence": "Fico feliz que você ________ ajuda quando precisa.",
     "blanks": [
       {
@@ -6829,6 +7220,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "finalidade",
     "sentence": "Antes que eu ________, preciso terminar isto.",
     "blanks": [
       {
@@ -6843,6 +7235,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "finalidade",
     "sentence": "Antes que você ________, leia o aviso.",
     "blanks": [
       {
@@ -6857,6 +7250,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "finalidade",
     "sentence": "Antes que nós ________, vamos revisar tudo.",
     "blanks": [
       {
@@ -6871,6 +7265,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "finalidade",
     "sentence": "Antes que eles ________, feche a porta.",
     "blanks": [
       {
@@ -6885,6 +7280,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "condição incerta",
     "sentence": "Mesmo que eu ________ cansado, vou tentar.",
     "blanks": [
       {
@@ -6899,6 +7295,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "condição incerta",
     "sentence": "Mesmo que você ________ razão, precisamos conversar.",
     "blanks": [
       {
@@ -6913,6 +7310,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "condição incerta",
     "sentence": "Embora ela ________ jovem, tem muita experiência.",
     "blanks": [
       {
@@ -6927,6 +7325,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "condição incerta",
     "sentence": "Embora eles ________ longe, participam sempre.",
     "blanks": [
       {
@@ -6941,6 +7340,7 @@ const questions = [
     "tenses": [
       "Presente Subjuntivo"
     ],
+    "hint": "finalidade",
     "sentence": "Para que nós ________ melhor, fale devagar.",
     "blanks": [
       {

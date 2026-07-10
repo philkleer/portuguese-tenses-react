@@ -5,6 +5,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "ação repetida e contínua até o presente",
     "sentence": "Ultimamente eu ________ até mais tarde no escritório.",
     "blanks": [
       {
@@ -19,6 +20,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Nas últimas semanas, eu ________ melhor o português falado.",
     "blanks": [
       {
@@ -33,6 +35,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "ação repetida e contínua até o presente",
     "sentence": "Desde janeiro, eu ________ ao médico com mais regularidade.",
     "blanks": [
       {
@@ -47,6 +50,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Ultimamente eu ________ menos açúcar no café.",
     "blanks": [
       {
@@ -61,6 +65,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "ação repetida e contínua até o presente",
     "sentence": "Nos últimos meses, eu ________ muitos textos em português.",
     "blanks": [
       {
@@ -75,6 +80,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Desde que comecei o curso, eu ________ bastante.",
     "blanks": [
       {
@@ -89,6 +95,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "ação repetida e contínua até o presente",
     "sentence": "Ultimamente eu ________ trabalhar de casa.",
     "blanks": [
       {
@@ -103,6 +110,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Nas últimas semanas, eu ________ mais cedo.",
     "blanks": [
       {
@@ -117,6 +125,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Tenho percebido que eu ________ com mais calma.",
     "blanks": [
       {
@@ -131,6 +140,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "ação repetida e contínua até o presente",
     "sentence": "Ultimamente eu ________ muitas reuniões on-line.",
     "blanks": [
       {
@@ -145,6 +155,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "ação repetida e contínua até o presente",
     "sentence": "Desde março, nós ________ com mais frequência.",
     "blanks": [
       {
@@ -159,6 +170,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "ação repetida e contínua até o presente",
     "sentence": "Nos últimos dias, nós ________ várias soluções diferentes.",
     "blanks": [
       {
@@ -173,6 +185,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Ultimamente nós ________ melhor os pedidos dos usuários.",
     "blanks": [
       {
@@ -187,6 +200,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "ação repetida e contínua até o presente",
     "sentence": "Desde o início do projeto, nós ________ os resultados semanalmente.",
     "blanks": [
       {
@@ -201,6 +215,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Nas últimas semanas, nós ________ muito sobre esse tema.",
     "blanks": [
       {
@@ -215,6 +230,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Ultimamente a equipe ________ mais rápido aos chamados.",
     "blanks": [
       {
@@ -229,6 +245,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "ação repetida e contínua até o presente",
     "sentence": "Nos últimos meses, a empresa ________ novos processos internos.",
     "blanks": [
       {
@@ -243,6 +260,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Desde a mudança, o sistema ________ melhor.",
     "blanks": [
       {
@@ -257,6 +275,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Ultimamente o aplicativo ________ menos erros.",
     "blanks": [
       {
@@ -271,6 +290,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Nas últimas versões, a interface ________ mais clara.",
     "blanks": [
       {
@@ -285,6 +305,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "ação repetida e contínua até o presente",
     "sentence": "Ultimamente eles ________ português todos os dias.",
     "blanks": [
       {
@@ -299,6 +320,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Nos últimos anos, eles ________ mais no Brasil.",
     "blanks": [
       {
@@ -313,6 +335,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "ação repetida e contínua até o presente",
     "sentence": "Desde a pandemia, muitas pessoas ________ de casa.",
     "blanks": [
       {
@@ -327,6 +350,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Nos últimos meses, meus amigos ________ mais cedo.",
     "blanks": [
       {
@@ -341,6 +365,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "ação repetida e contínua até o presente",
     "sentence": "Ultimamente os alunos ________ mais perguntas em aula.",
     "blanks": [
       {
@@ -355,6 +380,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Tenho notado que você ________ com mais segurança.",
     "blanks": [
       {
@@ -369,6 +395,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Ultimamente você ________ melhor os sons nasais.",
     "blanks": [
       {
@@ -383,6 +410,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Nas últimas semanas, você ________ bastante.",
     "blanks": [
       {
@@ -397,6 +425,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Desde que voltou das férias, você ________ mais animado.",
     "blanks": [
       {
@@ -411,6 +440,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Ultimamente você ________ uma rotina mais saudável.",
     "blanks": [
       {
@@ -425,6 +455,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "ação repetida e contínua até o presente",
     "sentence": "Nos últimos tempos, a gente ________ mais em casa.",
     "blanks": [
       {
@@ -439,6 +470,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Desde janeiro, a gente ________ menos com cartão.",
     "blanks": [
       {
@@ -453,6 +485,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Ultimamente a gente ________ mais atenção aos detalhes.",
     "blanks": [
       {
@@ -467,6 +500,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Nas últimas reuniões, a gente ________ decisões melhores.",
     "blanks": [
       {
@@ -481,6 +515,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Desde a mudança de horário, a gente ________ mais cedo.",
     "blanks": [
       {
@@ -495,6 +530,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "ação repetida e contínua até o presente",
     "sentence": "Ultimamente eu ________ morar perto do trabalho.",
     "blanks": [
       {
@@ -509,6 +545,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Nos últimos meses, eu ________ mais tempo com minha família.",
     "blanks": [
       {
@@ -523,6 +560,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Desde que comprei a bicicleta, eu ________ menos de carro.",
     "blanks": [
       {
@@ -537,6 +575,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "ação repetida e contínua até o presente",
     "sentence": "Ultimamente eu ________ muita música brasileira.",
     "blanks": [
       {
@@ -551,6 +590,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Nas últimas semanas, eu ________ melhor os jornais.",
     "blanks": [
       {
@@ -565,6 +605,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Ultimamente o professor ________ exemplos mais práticos.",
     "blanks": [
       {
@@ -579,6 +620,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "ação repetida e contínua até o presente",
     "sentence": "Desde o semestre passado, a turma ________ mais em grupo.",
     "blanks": [
       {
@@ -593,6 +635,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Nos últimos dias, o tempo ________ muito rápido.",
     "blanks": [
       {
@@ -607,6 +650,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Ultimamente a cidade ________ bastante.",
     "blanks": [
       {
@@ -621,6 +665,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Desde a reforma, o bairro ________ mais tranquilo.",
     "blanks": [
       {
@@ -635,6 +680,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "ação repetida e contínua até o presente",
     "sentence": "Ultimamente minhas irmãs ________ mais contato comigo.",
     "blanks": [
       {
@@ -649,6 +695,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Nos últimos meses, os preços ________ muito.",
     "blanks": [
       {
@@ -663,6 +710,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Desde o início do ano, as vendas ________ devagar.",
     "blanks": [
       {
@@ -677,6 +725,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Ultimamente as crianças ________ melhor na escola.",
     "blanks": [
       {
@@ -691,6 +740,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "ação repetida e contínua até o presente",
     "sentence": "Nas últimas semanas, as notícias ________ esse assunto todos os dias.",
     "blanks": [
       {
@@ -705,6 +755,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Tenho percebido que meu sotaque ________ menos forte.",
     "blanks": [
       {
@@ -719,6 +770,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Ultimamente meu computador ________ devagar.",
     "blanks": [
       {
@@ -733,6 +785,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Desde a atualização, o site ________ melhor no celular.",
     "blanks": [
       {
@@ -747,6 +800,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "ação repetida e contínua até o presente",
     "sentence": "Nas últimas noites, meu filho ________ cedo.",
     "blanks": [
       {
@@ -761,6 +815,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Ultimamente minha mãe ________ mais tranquila.",
     "blanks": [
       {
@@ -775,6 +830,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Desde que começou a caminhar, ele ________ mais disposição.",
     "blanks": [
       {
@@ -789,6 +845,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "ação repetida e contínua até o presente",
     "sentence": "Ultimamente ela ________ muitos podcasts.",
     "blanks": [
       {
@@ -803,6 +860,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Nas últimas semanas, ele ________ menos café.",
     "blanks": [
       {
@@ -817,6 +875,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Desde que mudou de emprego, ela ________ menos estresse.",
     "blanks": [
       {
@@ -831,6 +890,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Composto Indicativo"
     ],
+    "hint": "intensificação",
     "sentence": "Ultimamente ele ________ respostas mais completas.",
     "blanks": [
       {
@@ -1145,6 +1205,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "Informamos que os resultados ________ divulgados na próxima semana.",
     "blanks": [
       {
@@ -1159,6 +1220,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "A equipe técnica ________ o problema em breve.",
     "blanks": [
       {
@@ -1173,6 +1235,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "O pagamento ________ efetuado até sexta-feira.",
     "blanks": [
       {
@@ -1187,6 +1250,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "promessa",
     "sentence": "Nós ________ em contato assim que a análise terminar.",
     "blanks": [
       {
@@ -1201,6 +1265,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "promessa",
     "sentence": "Eu ________ a documentação ainda hoje.",
     "blanks": [
       {
@@ -1215,6 +1280,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "Os participantes ________ um certificado ao final do curso.",
     "blanks": [
       {
@@ -1229,6 +1295,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "A reunião ________ início às nove horas.",
     "blanks": [
       {
@@ -1243,6 +1310,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "A empresa ________ os resultados no próximo relatório.",
     "blanks": [
       {
@@ -1257,6 +1325,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "O sistema ________ manutenção programada amanhã.",
     "blanks": [
       {
@@ -1271,6 +1340,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "promessa",
     "sentence": "Eu ________ sua mensagem assim que possível.",
     "blanks": [
       {
@@ -1285,6 +1355,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "O edital ________ disponível no site oficial.",
     "blanks": [
       {
@@ -1299,6 +1370,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "As inscrições ________ abertas até o dia 30.",
     "blanks": [
       {
@@ -1313,6 +1385,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "A coordenação ________ os nomes dos aprovados.",
     "blanks": [
       {
@@ -1327,6 +1400,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "promessa",
     "sentence": "Nós ________ novas instruções por e-mail.",
     "blanks": [
       {
@@ -1341,6 +1415,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "O relatório final ________ publicado em julho.",
     "blanks": [
       {
@@ -1355,6 +1430,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "Os dados ________ revisados antes da publicação.",
     "blanks": [
       {
@@ -1369,6 +1445,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "A organização ________ todos os participantes.",
     "blanks": [
       {
@@ -1383,6 +1460,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "promessa",
     "sentence": "Eu ________ a solicitação ao setor responsável.",
     "blanks": [
       {
@@ -1397,6 +1475,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "O atendimento ________ suspenso durante a manutenção.",
     "blanks": [
       {
@@ -1411,6 +1490,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "As atividades ________ retomadas na segunda-feira.",
     "blanks": [
       {
@@ -1425,6 +1505,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "O curso ________ no dia 10 de agosto.",
     "blanks": [
       {
@@ -1439,6 +1520,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "promessa",
     "sentence": "Nós ________ uma nova versão do aplicativo.",
     "blanks": [
       {
@@ -1453,6 +1535,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "A equipe ________ os documentos pendentes.",
     "blanks": [
       {
@@ -1467,6 +1550,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "O sistema ________ automaticamente os dados.",
     "blanks": [
       {
@@ -1481,6 +1565,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "promessa",
     "sentence": "Eu ________ presente na cerimônia.",
     "blanks": [
       {
@@ -1495,6 +1580,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "Os alunos ________ acesso ao material complementar.",
     "blanks": [
       {
@@ -1509,6 +1595,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "A secretaria ________ o horário de funcionamento.",
     "blanks": [
       {
@@ -1523,6 +1610,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "O contrato ________ validade a partir de janeiro.",
     "blanks": [
       {
@@ -1537,6 +1625,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "promessa",
     "sentence": "Nós ________ as orientações no portal.",
     "blanks": [
       {
@@ -1551,6 +1640,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "A comissão ________ os recursos apresentados.",
     "blanks": [
       {
@@ -1565,6 +1655,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "Os documentos ________ arquivados após a análise.",
     "blanks": [
       {
@@ -1579,6 +1670,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "promessa",
     "sentence": "Eu ________ uma cópia para conferência.",
     "blanks": [
       {
@@ -1593,6 +1685,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "A plataforma ________ indisponível das 22h às 23h.",
     "blanks": [
       {
@@ -1607,6 +1700,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "A universidade ________ novas bolsas no próximo semestre.",
     "blanks": [
       {
@@ -1621,6 +1715,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "promessa",
     "sentence": "Nós ________ os detalhes em reunião posterior.",
     "blanks": [
       {
@@ -1635,6 +1730,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "O aviso ________ enviado a todos os usuários.",
     "blanks": [
       {
@@ -1649,6 +1745,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "A equipe ________ suporte durante o evento.",
     "blanks": [
       {
@@ -1663,6 +1760,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "Os responsáveis ________ chamados individualmente.",
     "blanks": [
       {
@@ -1677,6 +1775,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "promessa",
     "sentence": "Eu ________ os arquivos no repositório.",
     "blanks": [
       {
@@ -1691,6 +1790,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "O conselho ________ a decisão final amanhã.",
     "blanks": [
       {
@@ -1705,6 +1805,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "As aulas ________ às oito horas.",
     "blanks": [
       {
@@ -1719,6 +1820,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "O formulário ________ aberto até meia-noite.",
     "blanks": [
       {
@@ -1733,6 +1835,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "promessa",
     "sentence": "Nós ________ a proposta até sexta-feira.",
     "blanks": [
       {
@@ -1747,6 +1850,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "A direção ________ novas regras de acesso.",
     "blanks": [
       {
@@ -1761,6 +1865,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "O evento ________ transmissão ao vivo.",
     "blanks": [
       {
@@ -1775,6 +1880,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "Os candidatos ________ chamados por ordem de inscrição.",
     "blanks": [
       {
@@ -1789,6 +1895,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "promessa",
     "sentence": "Eu ________ responsável pela revisão final.",
     "blanks": [
       {
@@ -1803,6 +1910,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "A equipe ________ disponível para dúvidas.",
     "blanks": [
       {
@@ -1817,6 +1925,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "O material ________ atualizado mensalmente.",
     "blanks": [
       {
@@ -1831,6 +1940,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "promessa",
     "sentence": "Nós ________ os resultados por escrito.",
     "blanks": [
       {
@@ -1845,6 +1955,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "A empresa ________ a política de privacidade.",
     "blanks": [
       {
@@ -1859,6 +1970,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "Os testes ________ realizados em ambiente controlado.",
     "blanks": [
       {
@@ -1873,6 +1985,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "promessa",
     "sentence": "Eu ________ o parecer técnico amanhã.",
     "blanks": [
       {
@@ -1887,6 +2000,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "A coordenação ________ a presença dos inscritos.",
     "blanks": [
       {
@@ -1901,6 +2015,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "Os servidores ________ reiniciados durante a madrugada.",
     "blanks": [
       {
@@ -1915,6 +2030,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "A nova etapa ________ após a aprovação do orçamento.",
     "blanks": [
       {
@@ -1929,6 +2045,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "promessa",
     "sentence": "Nós ________ uma resposta oficial em breve.",
     "blanks": [
       {
@@ -1943,6 +2060,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "A documentação ________ anexada ao processo.",
     "blanks": [
       {
@@ -1957,6 +2075,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "O prazo ________ no dia 15.",
     "blanks": [
       {
@@ -1971,6 +2090,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Indicativo"
     ],
+    "hint": "previsão/futuro certo",
     "sentence": "As informações ________ atualizadas no sistema.",
     "blanks": [
       {
@@ -2285,6 +2405,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "hipótese",
     "sentence": "Eu ________ aquela casa se tivesse dinheiro.",
     "blanks": [
       {
@@ -2299,6 +2420,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "hipótese",
     "sentence": "Nós ________ mais cedo se o trânsito permitisse.",
     "blanks": [
       {
@@ -2313,6 +2435,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "hipótese",
     "sentence": "Ela ________ o emprego se a proposta fosse melhor.",
     "blanks": [
       {
@@ -2327,6 +2450,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "hipótese",
     "sentence": "Com mais tempo, eu ________ o texto com calma.",
     "blanks": [
       {
@@ -2341,6 +2465,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "hipótese",
     "sentence": "Se fosse possível, eles ________ no centro.",
     "blanks": [
       {
@@ -2355,6 +2480,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "cortesia",
     "sentence": "Eu ________ fazer uma pergunta.",
     "blanks": [
       {
@@ -2369,6 +2495,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "cortesia",
     "sentence": "Você ________ repetir a explicação?",
     "blanks": [
       {
@@ -2383,6 +2510,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "cortesia",
     "sentence": "Nós ________ solicitar uma revisão do documento.",
     "blanks": [
       {
@@ -2397,6 +2525,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "cortesia",
     "sentence": "O senhor ________ assinar aqui, por favor?",
     "blanks": [
       {
@@ -2411,6 +2540,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "cortesia",
     "sentence": "Eu ________ de confirmar o horário da reunião.",
     "blanks": [
       {
@@ -2425,6 +2555,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "futuro do passado",
     "sentence": "Ele disse que ________ cedo.",
     "blanks": [
       {
@@ -2439,6 +2570,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "futuro do passado",
     "sentence": "A empresa informou que os resultados ________ em junho.",
     "blanks": [
       {
@@ -2453,6 +2585,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "futuro do passado",
     "sentence": "Ela prometeu que me ________ depois.",
     "blanks": [
       {
@@ -2467,6 +2600,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "futuro do passado",
     "sentence": "O técnico avisou que o sistema ________ fora do ar.",
     "blanks": [
       {
@@ -2481,6 +2615,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "futuro do passado",
     "sentence": "O relatório indicava que os custos ________ no ano seguinte.",
     "blanks": [
       {
@@ -2495,6 +2630,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "hipótese",
     "sentence": "Se eu soubesse a resposta, ________ agora.",
     "blanks": [
       {
@@ -2509,6 +2645,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "hipótese",
     "sentence": "Se nós tivéssemos apoio, ________ o projeto.",
     "blanks": [
       {
@@ -2523,6 +2660,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "hipótese",
     "sentence": "Se chovesse, a festa ________ cancelada.",
     "blanks": [
       {
@@ -2537,6 +2675,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "hipótese",
     "sentence": "Com mais recursos, a escola ________ novos computadores.",
     "blanks": [
       {
@@ -2551,6 +2690,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "hipótese",
     "sentence": "Sem esse erro, o processo ________ mais rápido.",
     "blanks": [
       {
@@ -2565,6 +2705,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "hipótese",
     "sentence": "Eu ________ muito se pudesse viajar mais.",
     "blanks": [
       {
@@ -2579,6 +2720,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "hipótese",
     "sentence": "A gente ________ melhor se tivesse mais informações.",
     "blanks": [
       {
@@ -2593,6 +2735,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "hipótese",
     "sentence": "Eles ________ a proposta se entendessem os benefícios.",
     "blanks": [
       {
@@ -2607,6 +2750,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "conselho",
     "sentence": "Você ________ mais confortável em outra cadeira.",
     "blanks": [
       {
@@ -2621,6 +2765,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "hipótese",
     "sentence": "Eu ________ café, mas já está tarde.",
     "blanks": [
       {
@@ -2635,6 +2780,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "hipótese",
     "sentence": "Ela ________ no evento, mas está doente.",
     "blanks": [
       {
@@ -2649,6 +2795,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "hipótese",
     "sentence": "Nós ________ o relatório hoje, mas faltam dados.",
     "blanks": [
       {
@@ -2663,6 +2810,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "hipótese",
     "sentence": "Eles ________ a reunião, mas não receberam o convite.",
     "blanks": [
       {
@@ -2677,6 +2825,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "hipótese",
     "sentence": "Eu ________ sua ajuda, se não fosse incômodo.",
     "blanks": [
       {
@@ -2691,6 +2840,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "cortesia",
     "sentence": "Você ________ me enviar o arquivo?",
     "blanks": [
       {
@@ -2705,6 +2855,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "cortesia",
     "sentence": "Eu ________ de falar com a coordenação.",
     "blanks": [
       {
@@ -2719,6 +2870,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "cortesia",
     "sentence": "Nós ________ saber se há vagas disponíveis.",
     "blanks": [
       {
@@ -2733,6 +2885,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "cortesia",
     "sentence": "A senhora ________ aguardar um momento?",
     "blanks": [
       {
@@ -2747,6 +2900,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "cortesia",
     "sentence": "Eu ________ uma resposta até amanhã.",
     "blanks": [
       {
@@ -2761,6 +2915,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "futuro do passado",
     "sentence": "O gerente afirmou que ________ o caso pessoalmente.",
     "blanks": [
       {
@@ -2775,6 +2930,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "futuro do passado",
     "sentence": "A previsão dizia que ________ à noite.",
     "blanks": [
       {
@@ -2789,6 +2945,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "futuro do passado",
     "sentence": "O professor comentou que a prova ________ difícil.",
     "blanks": [
       {
@@ -2803,6 +2960,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "futuro do passado",
     "sentence": "Ela explicou que ________ mais tarde.",
     "blanks": [
       {
@@ -2817,6 +2975,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "futuro do passado",
     "sentence": "O jornal noticiou que o ministro ________ no dia seguinte.",
     "blanks": [
       {
@@ -2831,6 +2990,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "futuro do passado",
     "sentence": "A empresa anunciou que ________ uma nova unidade.",
     "blanks": [
       {
@@ -2845,6 +3005,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "hipótese",
     "sentence": "Se eu tivesse tempo, ________ mais livros.",
     "blanks": [
       {
@@ -2859,6 +3020,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "hipótese",
     "sentence": "Se você pedisse, ele ________ sem reclamar.",
     "blanks": [
       {
@@ -2873,6 +3035,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "hipótese",
     "sentence": "Se a loja aceitasse troca, eu ________ outro modelo.",
     "blanks": [
       {
@@ -2887,6 +3050,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "hipótese",
     "sentence": "Se a conexão fosse melhor, nós ________ a chamada.",
     "blanks": [
       {
@@ -2901,6 +3065,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "hipótese",
     "sentence": "Se eles chegassem antes, ________ conosco.",
     "blanks": [
       {
@@ -2915,6 +3080,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "hipótese",
     "sentence": "Com uma equipe maior, o trabalho ________ menos pesado.",
     "blanks": [
       {
@@ -2929,6 +3095,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "hipótese",
     "sentence": "Com esse salário, eu não ________ a oferta.",
     "blanks": [
       {
@@ -2943,6 +3110,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "conselho",
     "sentence": "Na sua situação, eu ________ outra solução.",
     "blanks": [
       {
@@ -2957,6 +3125,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "cortesia",
     "sentence": "Por gentileza, você ________ fechar a porta?",
     "blanks": [
       {
@@ -2971,6 +3140,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "cortesia",
     "sentence": "Eu ________ de agradecer pela atenção.",
     "blanks": [
       {
@@ -2985,6 +3155,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "cortesia",
     "sentence": "Nós ________ uma reunião mais curta.",
     "blanks": [
       {
@@ -2999,6 +3170,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "cortesia",
     "sentence": "Você ________ confirmar seu endereço?",
     "blanks": [
       {
@@ -3013,6 +3185,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "cortesia",
     "sentence": "Eu ________ um café, por favor.",
     "blanks": [
       {
@@ -3027,6 +3200,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "futuro do passado",
     "sentence": "Ele garantiu que ________ o prazo.",
     "blanks": [
       {
@@ -3041,6 +3215,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "futuro do passado",
     "sentence": "A organização disse que ________ transporte aos convidados.",
     "blanks": [
       {
@@ -3055,6 +3230,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "futuro do passado",
     "sentence": "O candidato afirmou que ________ as regras.",
     "blanks": [
       {
@@ -3069,6 +3245,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "futuro do passado",
     "sentence": "A diretora avisou que ________ nova reunião.",
     "blanks": [
       {
@@ -3083,6 +3260,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "futuro do passado",
     "sentence": "O contrato previa que o pagamento ________ em duas parcelas.",
     "blanks": [
       {
@@ -3097,6 +3275,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "futuro do passado",
     "sentence": "O médico disse que eu ________ repouso.",
     "blanks": [
       {
@@ -3111,6 +3290,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito / Condicional I"
     ],
+    "hint": "suposição",
     "sentence": "Ela achava que nós ________ mais tarde.",
     "blanks": [
       {
@@ -3425,6 +3605,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Se eu ________ mais cedo, ajudaria você.",
     "blanks": [
       {
@@ -3439,6 +3620,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Se você ________ com calma, entenderia melhor.",
     "blanks": [
       {
@@ -3453,6 +3635,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Se nós ________ mais tempo, revisaríamos tudo.",
     "blanks": [
       {
@@ -3467,6 +3650,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Se eles ________ a verdade, mudariam de ideia.",
     "blanks": [
       {
@@ -3481,6 +3665,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Se ela ________ aqui, resolveria o problema.",
     "blanks": [
       {
@@ -3495,6 +3680,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Caso eu ________ a senha, entraria no sistema.",
     "blanks": [
       {
@@ -3509,6 +3695,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Caso você ________ ajuda, eu explicaria de novo.",
     "blanks": [
       {
@@ -3523,6 +3710,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Caso nós ________ antes, evitaríamos o erro.",
     "blanks": [
       {
@@ -3537,6 +3725,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Caso eles ________ a proposta, poderíamos avançar.",
     "blanks": [
       {
@@ -3551,6 +3740,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Caso a reunião ________ mais curta, todos participariam.",
     "blanks": [
       {
@@ -3565,6 +3755,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Seria ótimo se eu ________ com mais clareza.",
     "blanks": [
       {
@@ -3579,6 +3770,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Seria melhor se você ________ menos pressa.",
     "blanks": [
       {
@@ -3593,6 +3785,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "desejo/dúvida no passado",
     "sentence": "Seria importante que nós ________ todos os detalhes.",
     "blanks": [
       {
@@ -3607,6 +3800,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "desejo/dúvida no passado",
     "sentence": "Seria bom que eles ________ no prazo.",
     "blanks": [
       {
@@ -3621,6 +3815,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Seria estranho se ela não ________ a mensagem.",
     "blanks": [
       {
@@ -3635,6 +3830,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "desejo/dúvida no passado",
     "sentence": "Ela pediu que eu ________ antes da reunião.",
     "blanks": [
       {
@@ -3649,6 +3845,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "desejo/dúvida no passado",
     "sentence": "O professor queria que nós ________ o exercício.",
     "blanks": [
       {
@@ -3663,6 +3860,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "desejo/dúvida no passado",
     "sentence": "Minha mãe preferia que eu ________ em casa.",
     "blanks": [
       {
@@ -3677,6 +3875,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "desejo/dúvida no passado",
     "sentence": "O chefe solicitou que eles ________ o relatório.",
     "blanks": [
       {
@@ -3691,6 +3890,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "desejo/dúvida no passado",
     "sentence": "A coordenação pediu que você ________ o formulário.",
     "blanks": [
       {
@@ -3705,6 +3905,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "desejo/dúvida no passado",
     "sentence": "Eu gostaria que você ________ mais atenção.",
     "blanks": [
       {
@@ -3719,6 +3920,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "desejo/dúvida no passado",
     "sentence": "Ela esperava que nós ________ uma solução.",
     "blanks": [
       {
@@ -3733,6 +3935,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "desejo/dúvida no passado",
     "sentence": "Eles queriam que a gente ________ o projeto.",
     "blanks": [
       {
@@ -3747,6 +3950,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "desejo/dúvida no passado",
     "sentence": "O cliente pediu que eu ________ outra proposta.",
     "blanks": [
       {
@@ -3761,6 +3965,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "desejo/dúvida no passado",
     "sentence": "A diretora exigiu que todos ________ presentes.",
     "blanks": [
       {
@@ -3775,6 +3980,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Se eu ________ no centro, iria a pé.",
     "blanks": [
       {
@@ -3789,6 +3995,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Se você ________ português todos os dias, melhoraria rápido.",
     "blanks": [
       {
@@ -3803,6 +4010,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Se nós ________ mais dinheiro, viajaríamos agora.",
     "blanks": [
       {
@@ -3817,6 +4025,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Se eles ________ menos barulho, eu dormiria melhor.",
     "blanks": [
       {
@@ -3831,6 +4040,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Se ela ________ dirigir, iria sozinha.",
     "blanks": [
       {
@@ -3845,6 +4055,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Caso eu ________ a resposta, avisaria.",
     "blanks": [
       {
@@ -3859,6 +4070,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Caso você ________ a passagem, me ligue.",
     "blanks": [
       {
@@ -3873,6 +4085,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Caso nós ________ atrasados, começaríamos depois.",
     "blanks": [
       {
@@ -3887,6 +4100,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Caso eles ________ cedo, almoçaríamos juntos.",
     "blanks": [
       {
@@ -3901,6 +4115,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Caso a proposta ________ aprovada, iniciaríamos o projeto.",
     "blanks": [
       {
@@ -3915,6 +4130,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Eu ficaria feliz se você ________ comigo.",
     "blanks": [
       {
@@ -3929,6 +4145,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Ela ficaria surpresa se nós ________ tão rápido.",
     "blanks": [
       {
@@ -3943,6 +4160,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Seria ótimo se eles ________ mais.",
     "blanks": [
       {
@@ -3957,6 +4175,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Seria útil se o sistema ________ os dados.",
     "blanks": [
       {
@@ -3971,6 +4190,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Seria injusto se apenas uma pessoa ________ tudo.",
     "blanks": [
       {
@@ -3985,6 +4205,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "desejo/dúvida no passado",
     "sentence": "O médico recomendou que eu ________ repouso.",
     "blanks": [
       {
@@ -3999,6 +4220,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "desejo/dúvida no passado",
     "sentence": "A professora pediu que os alunos ________ em voz alta.",
     "blanks": [
       {
@@ -4013,6 +4235,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "desejo/dúvida no passado",
     "sentence": "O gerente sugeriu que nós ________ outro caminho.",
     "blanks": [
       {
@@ -4027,6 +4250,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "desejo/dúvida no passado",
     "sentence": "A família queria que ela ________ perto de casa.",
     "blanks": [
       {
@@ -4041,6 +4265,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "desejo/dúvida no passado",
     "sentence": "O edital exigia que os candidatos ________ o comprovante.",
     "blanks": [
       {
@@ -4055,6 +4280,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Se eu ________ você, aceitaria a proposta.",
     "blanks": [
       {
@@ -4069,6 +4295,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Se ele ________ mais paciente, aprenderia melhor.",
     "blanks": [
       {
@@ -4083,6 +4310,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Se a gente ________ tempo, faria uma pausa.",
     "blanks": [
       {
@@ -4097,6 +4325,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Se vocês ________ a regra, não cometeriam esse erro.",
     "blanks": [
       {
@@ -4111,6 +4340,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Se o ônibus ________ no horário, eu chegaria cedo.",
     "blanks": [
       {
@@ -4125,6 +4355,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Caso eu ________ o documento, mandaria hoje.",
     "blanks": [
       {
@@ -4139,6 +4370,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Caso você ________ a planilha, confira os totais.",
     "blanks": [
       {
@@ -4153,6 +4385,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Caso nós ________ sair agora, chegaríamos antes.",
     "blanks": [
       {
@@ -4167,6 +4400,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Caso eles ________ a reunião, resolveriam a dúvida.",
     "blanks": [
       {
@@ -4181,6 +4415,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato",
     "sentence": "Caso ela ________ a proposta, responderia amanhã.",
     "blanks": [
       {
@@ -4195,6 +4430,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "desejo/dúvida no passado",
     "sentence": "Gostaria que você ________ comigo.",
     "blanks": [
       {
@@ -4209,6 +4445,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "desejo/dúvida no passado",
     "sentence": "Preferiria que nós ________ isso depois.",
     "blanks": [
       {
@@ -4223,6 +4460,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "desejo/dúvida no passado",
     "sentence": "Era necessário que todos ________ silêncio.",
     "blanks": [
       {
@@ -4237,6 +4475,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "desejo/dúvida no passado",
     "sentence": "Era importante que eu ________ os arquivos.",
     "blanks": [
       {
@@ -4251,6 +4490,7 @@ const questions = [
     "tenses": [
       "Pretérito Imperfeito Subjuntivo"
     ],
+    "hint": "desejo/dúvida no passado",
     "sentence": "Era melhor que vocês ________ a decisão.",
     "blanks": [
       {
@@ -4565,6 +4805,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Quando eu ________ a resposta, aviso você.",
     "blanks": [
       {
@@ -4579,6 +4820,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Quando você ________ tempo, passe aqui.",
     "blanks": [
       {
@@ -4593,6 +4835,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Quando nós ________ ao escritório, ligaremos.",
     "blanks": [
       {
@@ -4607,6 +4850,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Quando eles ________ a proposta, responderemos.",
     "blanks": [
       {
@@ -4621,6 +4865,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Quando ela ________ pronta, começaremos.",
     "blanks": [
       {
@@ -4635,6 +4880,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "condição futura",
     "sentence": "Se eu ________ a senha, entro no sistema.",
     "blanks": [
       {
@@ -4649,6 +4895,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "condição futura",
     "sentence": "Se você ________ ajuda, me chame.",
     "blanks": [
       {
@@ -4663,6 +4910,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "condição futura",
     "sentence": "Se nós ________ cedo, almoçamos juntos.",
     "blanks": [
       {
@@ -4677,6 +4925,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "condição futura",
     "sentence": "Se eles ________ o convite, virão à festa.",
     "blanks": [
       {
@@ -4691,6 +4940,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "condição futura",
     "sentence": "Se a reunião ________ longa, faremos uma pausa.",
     "blanks": [
       {
@@ -4705,6 +4955,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Assim que eu ________ o documento, envio.",
     "blanks": [
       {
@@ -4719,6 +4970,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Assim que você ________ a confirmação, me avise.",
     "blanks": [
       {
@@ -4733,6 +4985,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Assim que nós ________ os dados, publicaremos o relatório.",
     "blanks": [
       {
@@ -4747,6 +5000,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Assim que eles ________ a análise, marcaremos a reunião.",
     "blanks": [
       {
@@ -4761,6 +5015,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Assim que ela ________ a ligação, eu explico.",
     "blanks": [
       {
@@ -4775,6 +5030,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Depois que eu ________ o relatório, descanso.",
     "blanks": [
       {
@@ -4789,6 +5045,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Depois que você ________ o formulário, clique em enviar.",
     "blanks": [
       {
@@ -4803,6 +5060,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Depois que nós ________ a compra, guardaremos o recibo.",
     "blanks": [
       {
@@ -4817,6 +5075,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Depois que eles ________ a decisão, avisaremos a equipe.",
     "blanks": [
       {
@@ -4831,6 +5090,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Depois que o sistema ________ ao ar, faremos os testes.",
     "blanks": [
       {
@@ -4845,6 +5105,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Enquanto eu ________ no curso, vou praticar todos os dias.",
     "blanks": [
       {
@@ -4859,6 +5120,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Enquanto você ________ aqui, pode usar esta mesa.",
     "blanks": [
       {
@@ -4873,6 +5135,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Enquanto nós ________ aguardando, revisaremos o material.",
     "blanks": [
       {
@@ -4887,6 +5150,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Enquanto eles ________ no Brasil, visitarão Salvador.",
     "blanks": [
       {
@@ -4901,6 +5165,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Enquanto a loja ________ aberta, podemos trocar o produto.",
     "blanks": [
       {
@@ -4915,6 +5180,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Quando eu ________ oportunidade, falarei com ele.",
     "blanks": [
       {
@@ -4929,6 +5195,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Quando você ________ a verdade, entenderá melhor.",
     "blanks": [
       {
@@ -4943,6 +5210,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Quando nós ________ a próxima versão, avisaremos.",
     "blanks": [
       {
@@ -4957,6 +5225,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Quando eles ________ adultos, escolherão melhor.",
     "blanks": [
       {
@@ -4971,6 +5240,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Quando ela ________ ao aeroporto, mandará mensagem.",
     "blanks": [
       {
@@ -4985,6 +5255,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "condição futura",
     "sentence": "Se eu ________ para o centro, compro o livro.",
     "blanks": [
       {
@@ -4999,6 +5270,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "condição futura",
     "sentence": "Se você ________ o arquivo, salve uma cópia.",
     "blanks": [
       {
@@ -5013,6 +5285,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "condição futura",
     "sentence": "Se nós ________ a verba, iniciaremos o projeto.",
     "blanks": [
       {
@@ -5027,6 +5300,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "condição futura",
     "sentence": "Se eles ________ cedo, guardaremos lugares.",
     "blanks": [
       {
@@ -5041,6 +5315,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "condição futura",
     "sentence": "Se ela ________ a vaga, mudará de cidade.",
     "blanks": [
       {
@@ -5055,6 +5330,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "condição futura",
     "sentence": "Caso eu ________ atrasado, comecem sem mim.",
     "blanks": [
       {
@@ -5069,6 +5345,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "condição futura",
     "sentence": "Caso você ________ dúvida, pergunte.",
     "blanks": [
       {
@@ -5083,6 +5360,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "condição futura",
     "sentence": "Caso nós ________ chamados, levaremos os documentos.",
     "blanks": [
       {
@@ -5097,6 +5375,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "condição futura",
     "sentence": "Caso eles ________ problemas, devem avisar.",
     "blanks": [
       {
@@ -5111,6 +5390,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "condição futura",
     "sentence": "Caso ela ________ a resposta, envie para todos.",
     "blanks": [
       {
@@ -5125,6 +5405,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Quando eu ________ de férias, visitarei minha família.",
     "blanks": [
       {
@@ -5139,6 +5420,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Quando você ________ em São Paulo, me ligue.",
     "blanks": [
       {
@@ -5153,6 +5435,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Quando nós ________ a Brasília, passaremos no ministério.",
     "blanks": [
       {
@@ -5167,6 +5450,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Quando eles ________ do trabalho, jantarão conosco.",
     "blanks": [
       {
@@ -5181,6 +5465,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Quando ela ________ o texto, fará a revisão.",
     "blanks": [
       {
@@ -5195,6 +5480,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "condição futura",
     "sentence": "Se eu ________ tempo amanhã, reviso o código.",
     "blanks": [
       {
@@ -5209,6 +5495,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "condição futura",
     "sentence": "Se você ________ a apresentação, mande o link.",
     "blanks": [
       {
@@ -5223,6 +5510,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "condição futura",
     "sentence": "Se nós ________ o problema, documentaremos a solução.",
     "blanks": [
       {
@@ -5237,6 +5525,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "condição futura",
     "sentence": "Se eles ________ a tempo, entrarão na sala.",
     "blanks": [
       {
@@ -5251,6 +5540,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "condição futura",
     "sentence": "Se ela ________ melhor, voltará ao trabalho.",
     "blanks": [
       {
@@ -5265,6 +5555,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Assim que eu ________ a notícia, conto para você.",
     "blanks": [
       {
@@ -5279,6 +5570,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Assim que você ________ em casa, descanse.",
     "blanks": [
       {
@@ -5293,6 +5585,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Assim que nós ________ os nomes, faremos a lista.",
     "blanks": [
       {
@@ -5307,6 +5600,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Assim que eles ________ autorizados, começarão.",
     "blanks": [
       {
@@ -5321,6 +5615,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Assim que ela ________ pronta, sairemos.",
     "blanks": [
       {
@@ -5335,6 +5630,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Depois que eu ________ o contrato, assino.",
     "blanks": [
       {
@@ -5349,6 +5645,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Depois que você ________ o pagamento, envie o comprovante.",
     "blanks": [
       {
@@ -5363,6 +5660,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Depois que nós ________ o orçamento, decidiremos.",
     "blanks": [
       {
@@ -5377,6 +5675,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Depois que eles ________ a sala, poderemos entrar.",
     "blanks": [
       {
@@ -5391,6 +5690,7 @@ const questions = [
     "tenses": [
       "Futuro Simples Subjuntivo"
     ],
+    "hint": "certeza condicionada a evento futuro",
     "sentence": "Depois que ela ________ a decisão, todos saberão.",
     "blanks": [
       {

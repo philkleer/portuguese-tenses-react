@@ -38,7 +38,7 @@ export default function QuizView({ exercise, onBackToHome, onBackToOptions }) {
     );
   }
 
-  const tenseHint = currentQuestion.tenses.join(' + ');
+  const tenseHint = currentQuestion.hint;
 
   function setFillInput(index, value) {
     setUserInput((previous) => previous.map((item, itemIndex) => (itemIndex === index ? value : item)));

@@ -85,7 +85,7 @@ export default function FillQuestion({
 
             {showHint && (
               <p className="hint-text">
-                Tempo verbal: <strong>{tenseHint}</strong>
+                Uso: <strong>{tenseHint}</strong>
               </p>
             )}
           </>

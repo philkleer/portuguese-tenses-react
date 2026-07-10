@@ -94,9 +94,10 @@ a {
   margin: 0 0 8px;
   text-transform: uppercase;
   letter-spacing: 0.08em;
+  font-family: var(--font-sans);
   font-size: 0.74rem;
   font-weight: 900;
-  color: var(--primary);
+  color: var(--neutral);
 }
 
 .resource-links {
@@ -177,12 +178,13 @@ a {
 
 .home-cards {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: 1fr;
   gap: 16px;
 }
 
 .mini-card {
   display: grid;
+  text-align: center;
   gap: 8px;
 }
 

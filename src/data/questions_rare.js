@@ -5,6 +5,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Composto Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada",
     "sentence": "Quando recebi a notícia, eu já ________ em Recife por dois anos.",
     "blanks": [
       {
@@ -19,6 +20,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Composto Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada",
     "sentence": "Antes de mudar de área, eu já ________ naquela empresa.",
     "blanks": [
       {
@@ -33,6 +35,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Composto Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada",
     "sentence": "Quando o professor explicou de novo, eu já ________ a ideia principal.",
     "blanks": [
       {
@@ -47,6 +50,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Composto Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada",
     "sentence": "Quando os convidados chegaram, eu já ________ a porta.",
     "blanks": [
       {
@@ -61,6 +65,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Composto Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada",
     "sentence": "Antes da reunião começar, eu já ________ o relatório.",
     "blanks": [
       {
@@ -75,6 +80,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Composto Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada",
     "sentence": "Quando você me chamou, eu já ________ embora.",
     "blanks": [
       {
@@ -89,6 +95,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Composto Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada",
     "sentence": "Antes daquela conversa, eu nunca ________ uma dúvida tão grande.",
     "blanks": [
       {
@@ -103,6 +110,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Composto Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada",
     "sentence": "Até aquele momento, eu ________ muito cauteloso.",
     "blanks": [
       {
@@ -117,6 +125,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Composto Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada",
     "sentence": "Quando a equipe chegou, eu já ________ no laboratório.",
     "blanks": [
       {
@@ -131,6 +140,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Composto Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada",
     "sentence": "Naquela época, eu sempre ________ estudar de manhã.",
     "blanks": [
       {
@@ -145,6 +155,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Composto Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada",
     "sentence": "Antes de vir para São Paulo, eu ________ no interior.",
     "blanks": [
       {
@@ -159,6 +170,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Composto Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada",
     "sentence": "Quando fui promovido, eu já ________ muito naquele projeto.",
     "blanks": [
       {
@@ -173,6 +185,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Composto Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada",
     "sentence": "Antes da prova, eu já ________ a regra.",
     "blanks": [
       {
@@ -187,6 +200,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Composto Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada",
     "sentence": "Ao perceber o erro, notei que eu ________ o arquivo errado.",
     "blanks": [
       {
@@ -201,6 +215,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Composto Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada",
     "sentence": "Quando você perguntou, eu já ________ a minha parte.",
     "blanks": [
       {
@@ -215,6 +230,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Composto Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada",
     "sentence": "Antes da tempestade começar, eu já ________ para casa.",
     "blanks": [
       {
@@ -229,6 +245,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Composto Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada",
     "sentence": "Até então, eu nunca ________ uma oportunidade assim.",
     "blanks": [
       {
@@ -243,6 +260,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Composto Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada",
     "sentence": "Antes daquele dia, eu ________ apenas um observador.",
     "blanks": [
       {
@@ -257,6 +275,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Composto Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada",
     "sentence": "Quando a decisão saiu, eu já ________ em outra reunião.",
     "blanks": [
       {
@@ -271,6 +290,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Composto Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada",
     "sentence": "Até conhecer a nova opção, eu ________ a solução antiga.",
     "blanks": [
       {
@@ -285,6 +305,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Composto Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada",
     "sentence": "Naquele período, eu já ________ com outras famílias brasileiras.",
     "blanks": [
       {
@@ -299,6 +320,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Composto Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada",
     "sentence": "Quando o contrato terminou, eu ________ ali por quase um ano.",
     "blanks": [
       {
@@ -313,6 +335,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Composto Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada",
     "sentence": "Antes de ler o comentário, eu não ________ o problema inteiro.",
     "blanks": [
       {
@@ -327,6 +350,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Composto Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada",
     "sentence": "Quando percebi o barulho, eu já ________ a janela.",
     "blanks": [
       {
@@ -341,6 +365,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Composto Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada",
     "sentence": "Antes do prazo final, eu ________ todos os ajustes.",
     "blanks": [
       {
@@ -355,6 +380,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Composto Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada",
     "sentence": "Quando a festa começou, eu já ________ embora.",
     "blanks": [
       {
@@ -369,6 +395,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Composto Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada",
     "sentence": "Antes da mudança, eu ________ pouco contato com esse tema.",
     "blanks": [
       {
@@ -383,6 +410,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Composto Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada",
     "sentence": "Até então, a resposta ________ bastante simples.",
     "blanks": [
       {
@@ -397,6 +425,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Composto Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada",
     "sentence": "Quando todos chegaram, eu já ________ sentado na sala.",
     "blanks": [
       {
@@ -411,6 +440,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Composto Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada",
     "sentence": "Antes da conversa, eu ________ não comentar o assunto.",
     "blanks": [
       {
@@ -575,6 +605,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada (formal/literário)",
     "sentence": "No romance, dizia-se que eu ________ naquela vila antes da guerra.",
     "blanks": [
       {
@@ -589,6 +620,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada (formal/literário)",
     "sentence": "O cronista afirmou que eu ________ como escriba por muitos anos.",
     "blanks": [
       {
@@ -603,6 +635,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada (formal/literário)",
     "sentence": "Segundo o manuscrito, eu já ________ o aviso antes da partida.",
     "blanks": [
       {
@@ -617,6 +650,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada (formal/literário)",
     "sentence": "A narrativa registrava que eu ________ o portão ao amanhecer.",
     "blanks": [
       {
@@ -631,6 +665,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada (formal/literário)",
     "sentence": "O autor escreveu que eu ________ uma promessa solene.",
     "blanks": [
       {
@@ -645,6 +680,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada (formal/literário)",
     "sentence": "A carta dizia que eu ________ à capital antes do inverno.",
     "blanks": [
       {
@@ -659,6 +695,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada (formal/literário)",
     "sentence": "O relato indicava que eu ________ grande influência na decisão.",
     "blanks": [
       {
@@ -673,6 +710,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada (formal/literário)",
     "sentence": "Naquela crônica, constava que eu ________ o primeiro a responder.",
     "blanks": [
       {
@@ -687,6 +725,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada (formal/literário)",
     "sentence": "O documento afirmava que eu ________ presente à cerimônia.",
     "blanks": [
       {
@@ -701,6 +740,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada (formal/literário)",
     "sentence": "O narrador comentou que eu ________ o silêncio.",
     "blanks": [
       {
@@ -715,6 +755,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada (formal/literário)",
     "sentence": "A biografia dizia que eu ________ perto do rio na juventude.",
     "blanks": [
       {
@@ -729,6 +770,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada (formal/literário)",
     "sentence": "O processo registrava que eu ________ na oficina do pai.",
     "blanks": [
       {
@@ -743,6 +785,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada (formal/literário)",
     "sentence": "O juiz concluiu que eu ________ o risco desde o início.",
     "blanks": [
       {
@@ -757,6 +800,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada (formal/literário)",
     "sentence": "A ata declarava que eu ________ a sessão às oito.",
     "blanks": [
       {
@@ -771,6 +815,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada (formal/literário)",
     "sentence": "O texto antigo dizia que eu ________ tudo conforme a regra.",
     "blanks": [
       {
@@ -785,6 +830,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada (formal/literário)",
     "sentence": "A testemunha relatou que eu ________ ao encontro combinado.",
     "blanks": [
       {
@@ -799,6 +845,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada (formal/literário)",
     "sentence": "O inventário mostrava que eu ________ poucos bens.",
     "blanks": [
       {
@@ -813,6 +860,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada (formal/literário)",
     "sentence": "O memorial dizia que eu ________ leal aos companheiros.",
     "blanks": [
       {
@@ -827,6 +875,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada (formal/literário)",
     "sentence": "O registro indicava que eu ________ ausente naquela manhã.",
     "blanks": [
       {
@@ -841,6 +890,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada (formal/literário)",
     "sentence": "A crônica sugeria que eu ________ a estrada mais longa.",
     "blanks": [
       {
@@ -855,6 +905,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada (formal/literário)",
     "sentence": "Na narrativa formal, constava que eu já ________ em Salvador.",
     "blanks": [
       {
@@ -869,6 +920,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada (formal/literário)",
     "sentence": "Na narrativa formal, constava que eu já ________ no cartório.",
     "blanks": [
       {
@@ -883,6 +935,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada (formal/literário)",
     "sentence": "Na narrativa formal, constava que eu já ________ a mensagem.",
     "blanks": [
       {
@@ -897,6 +950,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada (formal/literário)",
     "sentence": "Na narrativa formal, constava que eu já ________ o envelope.",
     "blanks": [
       {
@@ -911,6 +965,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada (formal/literário)",
     "sentence": "Na narrativa formal, constava que eu já ________ a escolha.",
     "blanks": [
       {
@@ -925,6 +980,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada (formal/literário)",
     "sentence": "Na narrativa formal, constava que eu já ________ embora.",
     "blanks": [
       {
@@ -939,6 +995,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada (formal/literário)",
     "sentence": "Na narrativa formal, constava que eu já ________ essa impressão.",
     "blanks": [
       {
@@ -953,6 +1010,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada (formal/literário)",
     "sentence": "Na narrativa formal, constava que eu já ________ advertido.",
     "blanks": [
       {
@@ -967,6 +1025,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada (formal/literário)",
     "sentence": "Na narrativa formal, constava que eu já ________ ali.",
     "blanks": [
       {
@@ -981,6 +1040,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Indicativo"
     ],
+    "hint": "ação anterior a outra ação passada (formal/literário)",
     "sentence": "Na narrativa formal, constava que eu já ________ outra solução.",
     "blanks": [
       {
@@ -1145,6 +1205,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Indicativo"
     ],
+    "hint": "ação concluída antes de um momento futuro",
     "sentence": "Até dezembro, eu já ________ em três cidades diferentes.",
     "blanks": [
       {
@@ -1159,6 +1220,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Indicativo"
     ],
+    "hint": "ação concluída antes de um momento futuro",
     "sentence": "Quando o projeto terminar, eu ________ nele por seis meses.",
     "blanks": [
       {
@@ -1173,6 +1235,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Indicativo"
     ],
+    "hint": "suposição sobre o passado",
     "sentence": "Depois dessa explicação, eu provavelmente ________ o ponto principal.",
     "blanks": [
       {
@@ -1187,6 +1250,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Indicativo"
     ],
+    "hint": "ação concluída antes de um momento futuro",
     "sentence": "Até você chegar, eu já ________ a sala.",
     "blanks": [
       {
@@ -1201,6 +1265,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Indicativo"
     ],
+    "hint": "ação concluída antes de um momento futuro",
     "sentence": "Até amanhã, eu ________ todos os exercícios.",
     "blanks": [
       {
@@ -1215,6 +1280,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Indicativo"
     ],
+    "hint": "ação concluída antes de um momento futuro",
     "sentence": "Quando você acordar, eu já ________ para o aeroporto.",
     "blanks": [
       {
@@ -1229,6 +1295,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Indicativo"
     ],
+    "hint": "ação concluída antes de um momento futuro",
     "sentence": "Ao fim do curso, eu ________ contato com vários temas novos.",
     "blanks": [
       {
@@ -1243,6 +1310,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Indicativo"
     ],
+    "hint": "ação concluída antes de um momento futuro",
     "sentence": "Quando a investigação acabar, eu ________ muito paciente.",
     "blanks": [
       {
@@ -1257,6 +1325,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Indicativo"
     ],
+    "hint": "ação concluída antes de um momento futuro",
     "sentence": "Até o fim da semana, eu ________ em três reuniões.",
     "blanks": [
       {
@@ -1271,6 +1340,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Indicativo"
     ],
+    "hint": "suposição sobre o passado",
     "sentence": "Depois de comparar tudo, eu talvez ________ a opção mais simples.",
     "blanks": [
       {
@@ -1285,6 +1355,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Indicativo"
     ],
+    "hint": "ação concluída antes de um momento futuro",
     "sentence": "No ano que vem, eu ________ aqui por uma década.",
     "blanks": [
       {
@@ -1299,6 +1370,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Indicativo"
     ],
+    "hint": "ação concluída antes de um momento futuro",
     "sentence": "Até a aposentadoria, eu ________ muitos anos nessa área.",
     "blanks": [
       {
@@ -1313,6 +1385,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Indicativo"
     ],
+    "hint": "ação concluída antes de um momento futuro",
     "sentence": "Depois de revisar o material, eu ________ melhor a diferença.",
     "blanks": [
       {
@@ -1327,6 +1400,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Indicativo"
     ],
+    "hint": "ação concluída antes de um momento futuro",
     "sentence": "Antes da reunião, eu ________ o documento compartilhado.",
     "blanks": [
       {
@@ -1341,6 +1415,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Indicativo"
     ],
+    "hint": "ação concluída antes de um momento futuro",
     "sentence": "Quando o prazo acabar, eu ________ a entrega.",
     "blanks": [
       {
@@ -1355,6 +1430,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Indicativo"
     ],
+    "hint": "ação concluída antes de um momento futuro",
     "sentence": "Até sexta, eu ________ ao centro resolver isso.",
     "blanks": [
       {
@@ -1369,6 +1445,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Indicativo"
     ],
+    "hint": "ação concluída antes de um momento futuro",
     "sentence": "Ao final da conversa, eu ________ tempo para pensar.",
     "blanks": [
       {
@@ -1383,6 +1460,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Indicativo"
     ],
+    "hint": "ação concluída antes de um momento futuro",
     "sentence": "Quando tudo passar, eu ________ parte importante da equipe.",
     "blanks": [
       {
@@ -1397,6 +1475,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Indicativo"
     ],
+    "hint": "ação concluída antes de um momento futuro",
     "sentence": "Até o relatório sair, eu ________ presente em todas as etapas.",
     "blanks": [
       {
@@ -1411,6 +1490,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Indicativo"
     ],
+    "hint": "suposição sobre o passado",
     "sentence": "Quando chegar a hora, eu provavelmente ________ esperar.",
     "blanks": [
       {
@@ -1425,6 +1505,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Indicativo"
     ],
+    "hint": "ação concluída antes de um momento futuro",
     "sentence": "Quando vender o apartamento, eu já ________ nele por anos.",
     "blanks": [
       {
@@ -1439,6 +1520,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Indicativo"
     ],
+    "hint": "ação concluída antes de um momento futuro",
     "sentence": "Ao completar o estágio, eu ________ em vários setores.",
     "blanks": [
       {
@@ -1453,6 +1535,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Indicativo"
     ],
+    "hint": "ação concluída antes de um momento futuro",
     "sentence": "Depois de ouvir os exemplos, eu ________ o uso do tempo.",
     "blanks": [
       {
@@ -1467,6 +1550,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Indicativo"
     ],
+    "hint": "ação concluída antes de um momento futuro",
     "sentence": "Até o evento começar, eu ________ todos os links necessários.",
     "blanks": [
       {
@@ -1481,6 +1565,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Indicativo"
     ],
+    "hint": "ação concluída antes de um momento futuro",
     "sentence": "Até você voltar, eu ________ o café.",
     "blanks": [
       {
@@ -1495,6 +1580,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Indicativo"
     ],
+    "hint": "ação concluída antes de um momento futuro",
     "sentence": "Quando a mensagem chegar, eu ________ embora.",
     "blanks": [
       {
@@ -1509,6 +1595,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Indicativo"
     ],
+    "hint": "ação concluída antes de um momento futuro",
     "sentence": "Até lá, eu ________ experiência suficiente.",
     "blanks": [
       {
@@ -1523,6 +1610,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Indicativo"
     ],
+    "hint": "ação concluída antes de um momento futuro",
     "sentence": "No fim do processo, eu ________ avaliado por três pessoas.",
     "blanks": [
       {
@@ -1537,6 +1625,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Indicativo"
     ],
+    "hint": "ação concluída antes de um momento futuro",
     "sentence": "Quando o prazo terminar, eu ________ envolvido em todas as fases.",
     "blanks": [
       {
@@ -1551,6 +1640,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Indicativo"
     ],
+    "hint": "ação concluída antes de um momento futuro",
     "sentence": "Depois das entrevistas, eu ________ uma resposta mais cautelosa.",
     "blanks": [
       {
@@ -1715,6 +1805,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Subjuntivo"
     ],
+    "hint": "dúvida/desejo sobre ação passada concluída",
     "sentence": "Espero que eu ________ tempo suficiente no Brasil para entender isso.",
     "blanks": [
       {
@@ -1729,6 +1820,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Subjuntivo"
     ],
+    "hint": "dúvida/desejo sobre ação passada concluída",
     "sentence": "Tomara que eu ________ bem durante a semana.",
     "blanks": [
       {
@@ -1743,6 +1835,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Subjuntivo"
     ],
+    "hint": "dúvida/desejo sobre ação passada concluída",
     "sentence": "Espero que eu ________ a explicação corretamente.",
     "blanks": [
       {
@@ -1757,6 +1850,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Subjuntivo"
     ],
+    "hint": "dúvida/desejo sobre ação passada concluída",
     "sentence": "É possível que eu ________ o arquivo errado.",
     "blanks": [
       {
@@ -1771,6 +1865,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Subjuntivo"
     ],
+    "hint": "dúvida/desejo sobre ação passada concluída",
     "sentence": "Espero que eu ________ tudo corretamente.",
     "blanks": [
       {
@@ -1785,6 +1880,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Subjuntivo"
     ],
+    "hint": "dúvida/desejo sobre ação passada concluída",
     "sentence": "Talvez eu ________ ao lugar certo.",
     "blanks": [
       {
@@ -1799,6 +1895,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Subjuntivo"
     ],
+    "hint": "dúvida/desejo sobre ação passada concluída",
     "sentence": "Espero que eu ________ paciência suficiente.",
     "blanks": [
       {
@@ -1813,6 +1910,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Subjuntivo"
     ],
+    "hint": "dúvida/desejo sobre ação passada concluída",
     "sentence": "Talvez eu ________ claro na resposta.",
     "blanks": [
       {
@@ -1827,6 +1925,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Subjuntivo"
     ],
+    "hint": "dúvida/desejo sobre ação passada concluída",
     "sentence": "É possível que eu ________ ocupado naquele momento.",
     "blanks": [
       {
@@ -1841,6 +1940,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Subjuntivo"
     ],
+    "hint": "dúvida/desejo sobre ação passada concluída",
     "sentence": "Talvez eu ________ uma opção mais simples.",
     "blanks": [
       {
@@ -1855,6 +1955,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Subjuntivo"
     ],
+    "hint": "dúvida/desejo sobre ação passada concluída",
     "sentence": "Não acho que eu ________ naquele bairro.",
     "blanks": [
       {
@@ -1869,6 +1970,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Subjuntivo"
     ],
+    "hint": "dúvida/desejo sobre ação passada concluída",
     "sentence": "Duvido que eu ________ tantas horas assim.",
     "blanks": [
       {
@@ -1883,6 +1985,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Subjuntivo"
     ],
+    "hint": "dúvida/desejo sobre ação passada concluída",
     "sentence": "É provável que eu ________ mal a pergunta.",
     "blanks": [
       {
@@ -1897,6 +2000,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Subjuntivo"
     ],
+    "hint": "dúvida/desejo sobre ação passada concluída",
     "sentence": "Não acredito que eu ________ a janela durante a chuva.",
     "blanks": [
       {
@@ -1911,6 +2015,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Subjuntivo"
     ],
+    "hint": "dúvida/desejo sobre ação passada concluída",
     "sentence": "Talvez eu ________ a escolha certa.",
     "blanks": [
       {
@@ -1925,6 +2030,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Subjuntivo"
     ],
+    "hint": "dúvida/desejo sobre ação passada concluída",
     "sentence": "Espero que eu não ________ cedo demais.",
     "blanks": [
       {
@@ -1939,6 +2045,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Subjuntivo"
     ],
+    "hint": "dúvida/desejo sobre ação passada concluída",
     "sentence": "É possível que eu ________ uma impressão errada.",
     "blanks": [
       {
@@ -1953,6 +2060,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Subjuntivo"
     ],
+    "hint": "dúvida/desejo sobre ação passada concluída",
     "sentence": "Espero que eu ________ justo com todos.",
     "blanks": [
       {
@@ -1967,6 +2075,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Subjuntivo"
     ],
+    "hint": "dúvida/desejo sobre ação passada concluída",
     "sentence": "Talvez eu ________ distraído na aula.",
     "blanks": [
       {
@@ -1981,6 +2090,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Subjuntivo"
     ],
+    "hint": "dúvida/desejo sobre ação passada concluída",
     "sentence": "Não creio que eu ________ essa alternativa.",
     "blanks": [
       {
@@ -1995,6 +2105,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Subjuntivo"
     ],
+    "hint": "dúvida/desejo sobre ação passada concluída",
     "sentence": "Ainda que eu ________ longe, consegui participar.",
     "blanks": [
       {
@@ -2009,6 +2120,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Subjuntivo"
     ],
+    "hint": "dúvida/desejo sobre ação passada concluída",
     "sentence": "Mesmo que eu ________ pouco, aprendi bastante.",
     "blanks": [
       {
@@ -2023,6 +2135,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Subjuntivo"
     ],
+    "hint": "dúvida/desejo sobre ação passada concluída",
     "sentence": "Caso eu ________ errado, me corrija.",
     "blanks": [
       {
@@ -2037,6 +2150,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Subjuntivo"
     ],
+    "hint": "dúvida/desejo sobre ação passada concluída",
     "sentence": "Caso eu ________ a pasta errada, avise.",
     "blanks": [
       {
@@ -2051,6 +2165,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Subjuntivo"
     ],
+    "hint": "dúvida/desejo sobre ação passada concluída",
     "sentence": "Embora eu ________ esforço, preciso melhorar.",
     "blanks": [
       {
@@ -2065,6 +2180,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Subjuntivo"
     ],
+    "hint": "dúvida/desejo sobre ação passada concluída",
     "sentence": "Mesmo que eu ________ lá, não vi ninguém.",
     "blanks": [
       {
@@ -2079,6 +2195,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Subjuntivo"
     ],
+    "hint": "dúvida/desejo sobre ação passada concluída",
     "sentence": "Embora eu ________ dúvidas, continuei lendo.",
     "blanks": [
       {
@@ -2093,6 +2210,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Subjuntivo"
     ],
+    "hint": "dúvida/desejo sobre ação passada concluída",
     "sentence": "Ainda que eu ________ breve, fui sincero.",
     "blanks": [
       {
@@ -2107,6 +2225,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Subjuntivo"
     ],
+    "hint": "dúvida/desejo sobre ação passada concluída",
     "sentence": "Mesmo que eu ________ cansado, participei.",
     "blanks": [
       {
@@ -2121,6 +2240,7 @@ const questions = [
     "tenses": [
       "Pretérito Perfeito Simples Subjuntivo"
     ],
+    "hint": "dúvida/desejo sobre ação passada concluída",
     "sentence": "Embora eu ________ ficar quieto, respondi.",
     "blanks": [
       {
@@ -2285,6 +2405,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Se eu ________ mais perto, teria chegado antes.",
     "blanks": [
       {
@@ -2299,6 +2420,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Se eu ________ menos naquela semana, teria descansado.",
     "blanks": [
       {
@@ -2313,6 +2435,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Se eu ________ a regra, não teria errado.",
     "blanks": [
       {
@@ -2327,6 +2450,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Se eu ________ a porta, o cachorro teria entrado.",
     "blanks": [
       {
@@ -2341,6 +2465,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Se eu ________ a reserva, teríamos uma mesa.",
     "blanks": [
       {
@@ -2355,6 +2480,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Se eu ________ ao médico antes, teria melhorado.",
     "blanks": [
       {
@@ -2369,6 +2495,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Se eu ________ mais tempo, teria revisado tudo.",
     "blanks": [
       {
@@ -2383,6 +2510,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Se eu ________ mais paciente, teria evitado a discussão.",
     "blanks": [
       {
@@ -2397,6 +2525,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Se eu ________ em casa, teria recebido a entrega.",
     "blanks": [
       {
@@ -2411,6 +2540,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Se eu ________ outra opção, teria dito.",
     "blanks": [
       {
@@ -2425,6 +2555,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Caso eu ________ ali, conheceria melhor o bairro.",
     "blanks": [
       {
@@ -2439,6 +2570,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Caso eu ________ com eles, saberia a rotina.",
     "blanks": [
       {
@@ -2453,6 +2585,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Caso eu ________ o aviso, teria parado.",
     "blanks": [
       {
@@ -2467,6 +2600,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Caso eu ________ o e-mail, teria visto o convite.",
     "blanks": [
       {
@@ -2481,6 +2615,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Caso eu ________ o backup, não teria perdido os dados.",
     "blanks": [
       {
@@ -2495,6 +2630,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Caso eu ________ à reunião, teria votado.",
     "blanks": [
       {
@@ -2509,6 +2645,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Caso eu ________ apoio, teria aceitado.",
     "blanks": [
       {
@@ -2523,6 +2660,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Caso eu ________ mais direto, todos entenderiam.",
     "blanks": [
       {
@@ -2537,6 +2675,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Caso eu ________ presente, teria ajudado.",
     "blanks": [
       {
@@ -2551,6 +2690,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Caso eu ________ esperar, teria avisado.",
     "blanks": [
       {
@@ -2565,6 +2705,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Ela falou como se eu ________ naquela casa por anos.",
     "blanks": [
       {
@@ -2579,6 +2720,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Ele agiu como se eu ________ no projeto desde o início.",
     "blanks": [
       {
@@ -2593,6 +2735,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "A professora explicou como se eu não ________ nada.",
     "blanks": [
       {
@@ -2607,6 +2750,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "O segurança reagiu como se eu ________ o portão sem autorização.",
     "blanks": [
       {
@@ -2621,6 +2765,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Todos me trataram como se eu ________ algo errado.",
     "blanks": [
       {
@@ -2635,6 +2780,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Eles comentaram como se eu ________ à festa.",
     "blanks": [
       {
@@ -2649,6 +2795,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Ela respondeu como se eu ________ culpa.",
     "blanks": [
       {
@@ -2663,6 +2810,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Ele falou como se eu ________ o responsável.",
     "blanks": [
       {
@@ -2677,6 +2825,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "A mensagem soou como se eu ________ ausente por escolha.",
     "blanks": [
       {
@@ -2691,6 +2840,7 @@ const questions = [
     "tenses": [
       "Pretérito Mais-que-Perfeito Subjuntivo"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Ela entendeu como se eu ________ ficar sozinho.",
     "blanks": [
       {
@@ -2855,6 +3005,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Subjuntivo"
     ],
+    "hint": "condição/tempo futuro anterior a outro evento futuro",
     "sentence": "Quando eu ________ aqui por um ano, vou conhecer melhor a cidade.",
     "blanks": [
       {
@@ -2869,6 +3020,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Subjuntivo"
     ],
+    "hint": "condição/tempo futuro anterior a outro evento futuro",
     "sentence": "Quando eu ________ o suficiente, vou descansar.",
     "blanks": [
       {
@@ -2883,6 +3035,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Subjuntivo"
     ],
+    "hint": "condição/tempo futuro anterior a outro evento futuro",
     "sentence": "Quando eu ________ a regra, faço o exercício.",
     "blanks": [
       {
@@ -2897,6 +3050,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Subjuntivo"
     ],
+    "hint": "condição/tempo futuro anterior a outro evento futuro",
     "sentence": "Quando eu ________ o arquivo, envio para você.",
     "blanks": [
       {
@@ -2911,6 +3065,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Subjuntivo"
     ],
+    "hint": "condição/tempo futuro anterior a outro evento futuro",
     "sentence": "Quando eu ________ tudo, aviso você.",
     "blanks": [
       {
@@ -2925,6 +3080,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Subjuntivo"
     ],
+    "hint": "condição/tempo futuro anterior a outro evento futuro",
     "sentence": "Quando eu ________ ao banco, resolvo isso.",
     "blanks": [
       {
@@ -2939,6 +3095,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Subjuntivo"
     ],
+    "hint": "condição/tempo futuro anterior a outro evento futuro",
     "sentence": "Quando eu ________ tempo, respondo com calma.",
     "blanks": [
       {
@@ -2953,6 +3110,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Subjuntivo"
     ],
+    "hint": "condição/tempo futuro anterior a outro evento futuro",
     "sentence": "Quando eu ________ avaliado, saberei o resultado.",
     "blanks": [
       {
@@ -2967,6 +3125,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Subjuntivo"
     ],
+    "hint": "condição/tempo futuro anterior a outro evento futuro",
     "sentence": "Quando eu ________ na sala, assinarei a lista.",
     "blanks": [
       {
@@ -2981,6 +3140,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Subjuntivo"
     ],
+    "hint": "condição/tempo futuro anterior a outro evento futuro",
     "sentence": "Quando eu ________ uma opção, aviso a equipe.",
     "blanks": [
       {
@@ -2995,6 +3155,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Subjuntivo"
     ],
+    "hint": "condição/tempo futuro anterior a outro evento futuro",
     "sentence": "Se eu ________ fora por muito tempo, volto diferente.",
     "blanks": [
       {
@@ -3009,6 +3170,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Subjuntivo"
     ],
+    "hint": "condição/tempo futuro anterior a outro evento futuro",
     "sentence": "Se eu ________ até sexta, descanso no fim de semana.",
     "blanks": [
       {
@@ -3023,6 +3185,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Subjuntivo"
     ],
+    "hint": "condição/tempo futuro anterior a outro evento futuro",
     "sentence": "Se eu ________ bem a proposta, posso aceitar.",
     "blanks": [
       {
@@ -3037,6 +3200,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Subjuntivo"
     ],
+    "hint": "condição/tempo futuro anterior a outro evento futuro",
     "sentence": "Se eu ________ a mensagem até lá, respondo.",
     "blanks": [
       {
@@ -3051,6 +3215,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Subjuntivo"
     ],
+    "hint": "condição/tempo futuro anterior a outro evento futuro",
     "sentence": "Se eu ________ a inscrição, mando o comprovante.",
     "blanks": [
       {
@@ -3065,6 +3230,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Subjuntivo"
     ],
+    "hint": "condição/tempo futuro anterior a outro evento futuro",
     "sentence": "Se eu ________ à consulta, conto como foi.",
     "blanks": [
       {
@@ -3079,6 +3245,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Subjuntivo"
     ],
+    "hint": "condição/tempo futuro anterior a outro evento futuro",
     "sentence": "Se eu ________ alguma notícia, aviso.",
     "blanks": [
       {
@@ -3093,6 +3260,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Subjuntivo"
     ],
+    "hint": "condição/tempo futuro anterior a outro evento futuro",
     "sentence": "Se eu ________ escolhido, começo na segunda.",
     "blanks": [
       {
@@ -3107,6 +3275,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Subjuntivo"
     ],
+    "hint": "condição/tempo futuro anterior a outro evento futuro",
     "sentence": "Se eu ________ presente, posso confirmar.",
     "blanks": [
       {
@@ -3121,6 +3290,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Subjuntivo"
     ],
+    "hint": "condição/tempo futuro anterior a outro evento futuro",
     "sentence": "Se eu ________ esperar, digo antes.",
     "blanks": [
       {
@@ -3135,6 +3305,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Subjuntivo"
     ],
+    "hint": "condição/tempo futuro anterior a outro evento futuro",
     "sentence": "Depois que eu ________ lá por algum tempo, vou opinar melhor.",
     "blanks": [
       {
@@ -3149,6 +3320,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Subjuntivo"
     ],
+    "hint": "condição/tempo futuro anterior a outro evento futuro",
     "sentence": "Depois que eu ________ no setor, entenderei a rotina.",
     "blanks": [
       {
@@ -3163,6 +3335,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Subjuntivo"
     ],
+    "hint": "condição/tempo futuro anterior a outro evento futuro",
     "sentence": "Depois que eu ________ o texto, faço o resumo.",
     "blanks": [
       {
@@ -3177,6 +3350,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Subjuntivo"
     ],
+    "hint": "condição/tempo futuro anterior a outro evento futuro",
     "sentence": "Depois que eu ________ o relatório, envio.",
     "blanks": [
       {
@@ -3191,6 +3365,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Subjuntivo"
     ],
+    "hint": "condição/tempo futuro anterior a outro evento futuro",
     "sentence": "Depois que eu ________ a revisão, publico.",
     "blanks": [
       {
@@ -3205,6 +3380,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Subjuntivo"
     ],
+    "hint": "condição/tempo futuro anterior a outro evento futuro",
     "sentence": "Depois que eu ________ ao mercado, preparo o jantar.",
     "blanks": [
       {
@@ -3219,6 +3395,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Subjuntivo"
     ],
+    "hint": "condição/tempo futuro anterior a outro evento futuro",
     "sentence": "Depois que eu ________ a reunião, respondo.",
     "blanks": [
       {
@@ -3233,6 +3410,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Subjuntivo"
     ],
+    "hint": "condição/tempo futuro anterior a outro evento futuro",
     "sentence": "Depois que eu ________ chamado, entro na sala.",
     "blanks": [
       {
@@ -3247,6 +3425,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Subjuntivo"
     ],
+    "hint": "condição/tempo futuro anterior a outro evento futuro",
     "sentence": "Depois que eu ________ no local, confirmo o endereço.",
     "blanks": [
       {
@@ -3261,6 +3440,7 @@ const questions = [
     "tenses": [
       "Futuro Composto Subjuntivo"
     ],
+    "hint": "condição/tempo futuro anterior a outro evento futuro",
     "sentence": "Depois que eu ________ uma data, marco a viagem.",
     "blanks": [
       {
@@ -3425,6 +3605,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito Composto / Condicional II"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Eu ________ perto da universidade se o aluguel fosse menor.",
     "blanks": [
       {
@@ -3439,6 +3620,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito Composto / Condicional II"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Eu ________ no fim de semana se fosse necessário.",
     "blanks": [
       {
@@ -3453,6 +3635,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito Composto / Condicional II"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Eu ________ a explicação se tivesse prestado atenção.",
     "blanks": [
       {
@@ -3467,6 +3650,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito Composto / Condicional II"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Eu ________ a loja mais cedo se tivesse a chave.",
     "blanks": [
       {
@@ -3481,6 +3665,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito Composto / Condicional II"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Eu ________ diferente se soubesse do problema.",
     "blanks": [
       {
@@ -3495,6 +3680,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito Composto / Condicional II"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Eu ________ à reunião se tivesse recebido o convite.",
     "blanks": [
       {
@@ -3509,6 +3695,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito Composto / Condicional II"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Eu ________ mais calma se conhecesse os detalhes.",
     "blanks": [
       {
@@ -3523,6 +3710,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito Composto / Condicional II"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Eu ________ mais cuidadoso se percebesse o risco.",
     "blanks": [
       {
@@ -3537,6 +3725,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito Composto / Condicional II"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Eu ________ presente se não estivesse doente.",
     "blanks": [
       {
@@ -3551,6 +3740,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito Composto / Condicional II"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Eu ________ outra solução se pudesse escolher.",
     "blanks": [
       {
@@ -3565,6 +3755,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito Composto / Condicional II"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Com mais dinheiro, eu ________ sozinho.",
     "blanks": [
       {
@@ -3579,6 +3770,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito Composto / Condicional II"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Com mais tempo, eu ________ melhor.",
     "blanks": [
       {
@@ -3593,6 +3785,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito Composto / Condicional II"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Com exemplos claros, eu ________ mais rápido.",
     "blanks": [
       {
@@ -3607,6 +3800,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito Composto / Condicional II"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Com autorização, eu ________ o documento.",
     "blanks": [
       {
@@ -3621,6 +3815,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito Composto / Condicional II"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Com ajuda, eu ________ a tarefa ontem.",
     "blanks": [
       {
@@ -3635,6 +3830,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito Composto / Condicional II"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Com transporte, eu ________ ao evento.",
     "blanks": [
       {
@@ -3649,6 +3845,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito Composto / Condicional II"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Com aviso prévio, eu ________ outra reação.",
     "blanks": [
       {
@@ -3663,6 +3860,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito Composto / Condicional II"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Com treinamento, eu ________ mais eficiente.",
     "blanks": [
       {
@@ -3677,6 +3875,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito Composto / Condicional II"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Com convite, eu ________ na cerimônia.",
     "blanks": [
       {
@@ -3691,6 +3890,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito Composto / Condicional II"
     ],
+    "hint": "hipótese contrária ao fato no passado",
     "sentence": "Com mais informação, eu ________ esperar.",
     "blanks": [
       {
@@ -3705,6 +3905,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito Composto / Condicional II"
     ],
+    "hint": "suposição sobre o passado",
     "sentence": "Naquela situação, eu ________ em outro lugar.",
     "blanks": [
       {
@@ -3719,6 +3920,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito Composto / Condicional II"
     ],
+    "hint": "suposição sobre o passado",
     "sentence": "Naquela situação, eu ________ em silêncio.",
     "blanks": [
       {
@@ -3733,6 +3935,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito Composto / Condicional II"
     ],
+    "hint": "suposição sobre o passado",
     "sentence": "Naquela situação, eu ________ a decisão.",
     "blanks": [
       {
@@ -3747,6 +3950,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito Composto / Condicional II"
     ],
+    "hint": "suposição sobre o passado",
     "sentence": "Naquela situação, eu ________ uma exceção.",
     "blanks": [
       {
@@ -3761,6 +3965,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito Composto / Condicional II"
     ],
+    "hint": "suposição sobre o passado",
     "sentence": "Naquela situação, eu ________ outra escolha.",
     "blanks": [
       {
@@ -3775,6 +3980,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito Composto / Condicional II"
     ],
+    "hint": "suposição sobre o passado",
     "sentence": "Naquela situação, eu ________ embora.",
     "blanks": [
       {
@@ -3789,6 +3995,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito Composto / Condicional II"
     ],
+    "hint": "suposição sobre o passado",
     "sentence": "Naquela situação, eu ________ mais cuidado.",
     "blanks": [
       {
@@ -3803,6 +4010,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito Composto / Condicional II"
     ],
+    "hint": "suposição sobre o passado",
     "sentence": "Naquela situação, eu ________ mais firme.",
     "blanks": [
       {
@@ -3817,6 +4025,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito Composto / Condicional II"
     ],
+    "hint": "suposição sobre o passado",
     "sentence": "Naquela situação, eu ________ nervoso.",
     "blanks": [
       {
@@ -3831,6 +4040,7 @@ const questions = [
     "tenses": [
       "Futuro do Pretérito Composto / Condicional II"
     ],
+    "hint": "suposição sobre o passado",
     "sentence": "Naquela situação, eu ________ não responder.",
     "blanks": [
       {
