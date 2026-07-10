@@ -15,6 +15,7 @@ export default function FillQuestion({
   onCorrect,
   onWrong,
   tenseHint,
+  tenseName
 }) {
   const [showHint, setShowHint] = useState(false);
   const parts = splitSentence(sentence);
@@ -56,7 +57,15 @@ export default function FillQuestion({
             <ul className="answer-list">
               {feedback.results.map((result, index) => (
                 <li key={`${result.correctAnswer}-${index}`} className={result.correct ? 'success-text' : 'error-text'}>
-                  {result.correct ? '✓' : '✗'} {blanks[index].hint}: {result.correctAnswer}
+                  {result.correct ? (
+                    <>✓ {blanks[index].hint}: {result.correctAnswer}</>
+                  ) : (
+                    <>
+                      <div>✗ reposta errada!</div>
+                      <div>Resposta correta: {result.correctAnswer}</div>
+                      <div>{tenseName}: {tenseHint} </div>
+                    </>
+                  )}
                 </li>
               ))}
             </ul>

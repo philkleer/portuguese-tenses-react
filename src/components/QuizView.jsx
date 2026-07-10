@@ -39,6 +39,7 @@ export default function QuizView({ exercise, onBackToHome, onBackToOptions }) {
   }
 
   const tenseHint = currentQuestion.hint;
+  const tenseName = currentQuestion.tenses.join(" + ")
 
   function setFillInput(index, value) {
     setUserInput((previous) => previous.map((item, itemIndex) => (itemIndex === index ? value : item)));
@@ -112,6 +113,7 @@ export default function QuizView({ exercise, onBackToHome, onBackToOptions }) {
           onCorrect={() => confirmResult(true)}
           onWrong={() => confirmResult(false)}
           tenseHint={tenseHint}
+          tenseName={tenseName}
         />
       )}
 
