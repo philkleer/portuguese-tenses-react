@@ -34,6 +34,7 @@
 }
 
 body {
+  font-family: var(--font-sans);
   margin: 0;
   min-width: 320px;
   min-height: 100vh;
@@ -156,6 +157,7 @@ a {
 
 .hero-card h1 {
   margin: 0;
+  font-family: var(--font-serif);
   font-size: clamp(2.2rem, 7vw, 4.8rem);
   line-height: 0.95;
   color: var(--primary);
@@ -211,6 +213,7 @@ a {
 
 .page-heading-card h1 {
   margin: 0;
+  font-family: var(--font-serif);
   font-size: clamp(2rem, 5vw, 3.4rem);
   color: var(--primary);
   letter-spacing: -0.04em;
@@ -232,6 +235,7 @@ a {
 
 .tense-selector h2 {
   margin: 0;
+  font-family: var(--font-serif);
   color: var(--primary);
 }
 
