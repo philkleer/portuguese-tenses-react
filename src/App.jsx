@@ -6,7 +6,7 @@ import useQuizExercise from './hooks/useQuizExercise.js';
 import { buildTenseList, defaultSettings } from './engine/questionFilters.js';
 import IconLinks from './components/IconLinks.jsx';
 import './styles.css';
-import { Analytics } from "@vercel/analytics/next";
+import { Analytics } from "@vercel/analytics/react";
 
 export default function App() {
   const [screen, setScreen] = useState('home');
